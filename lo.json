@@ -1,1 +1,19 @@
-
+[
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "2413dd2f-8a1d-46f5-bfd1-b92cee6526b8",
+    "timestamp": "2025-11-19T19:46:02.185851+00:00"
+  }
+]
