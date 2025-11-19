@@ -138,5 +138,82 @@
     "player": "filiposusek",
     "server_id": "d425570a-2d42-4b11-a447-001373a2c229",
     "timestamp": "2025-11-19T17:37:53.362034+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Job Job Job Sahur",
+        "generation": "$9.8M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$5.2M/s"
+      },
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Sammyni Spyderini",
+        "generation": "$4.5M/s"
+      },
+      {
+        "display_name": "Karkerkar Kurkur",
+        "generation": "$3.7M/s"
+      },
+      {
+        "display_name": "Los Tortus",
+        "generation": "$5.2M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$8.2M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      },
+      {
+        "display_name": "Los Jobcitos",
+        "generation": "$4.5M/s"
+      },
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$2.5M/s"
+      },
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$3.3M/s"
+      },
+      {
+        "display_name": "Chicleteira Bicicleteira",
+        "generation": "$47.2M/s"
+      },
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$19.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "acbd0e1a-8555-4ba5-b2b8-55c11dc0dec8",
+    "timestamp": "2025-11-19T17:39:42.964693+00:00"
   }
 ]
