@@ -708,5 +708,42 @@
     "player": "filiposusek",
     "server_id": "3becc2f6-e29a-4804-8b70-2ee9ead4353c",
     "timestamp": "2025-11-19T22:02:48.493908+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Mastodontico Telepiedone",
+        "generation": "$1.7M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "filiposusek",
+    "server_id": "60658905-5895-4eff-b797-daa1a5e5c617",
+    "timestamp": "2025-11-19T22:04:58.725336+00:00"
   }
 ]
