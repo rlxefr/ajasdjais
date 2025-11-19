@@ -666,5 +666,26 @@
     "screenshot_path": "sandbox:/mnt/data/7a8bca58-82db-4e35-a200-9ac0096ae870.png",
     "job": "3becc2f6-e29a-4804-8b70-2ee9ead4353c",
     "timestamp": "2025-11-19T22:00:22.516718+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 4,
+    "player": "filiposusek",
+    "server_id": "3becc2f6-e29a-4804-8b70-2ee9ead4353c",
+    "timestamp": "2025-11-19T22:02:19.918126+00:00"
   }
 ]
