@@ -310,5 +310,54 @@
     "player": "filiposusek",
     "server_id": "b51bb028-05c6-4f8b-91ee-55e8bfc46a02",
     "timestamp": "2025-11-19T21:14:08.904024+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$3M/s"
+      },
+      {
+        "display_name": "Blackhole Goat",
+        "generation": "$2.6M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "filiposusek",
+    "server_id": "b51bb028-05c6-4f8b-91ee-55e8bfc46a02",
+    "timestamp": "2025-11-19T21:14:40.246259+00:00"
   }
 ]
