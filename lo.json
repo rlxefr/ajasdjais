@@ -117,5 +117,18 @@
     "player": "filiposusek",
     "server_id": "c2407bfe-e7b9-42bb-af69-8f2e2e8011d8",
     "timestamp": "2025-11-19T21:05:55.344590+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "b681c4f0-9a14-4c5f-a807-3c4b74de8651",
+    "timestamp": "2025-11-19T21:08:01.690864+00:00"
   }
 ]
