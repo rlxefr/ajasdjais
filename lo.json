@@ -53,5 +53,26 @@
     "player": "filiposusek",
     "server_id": "a865a656-eb91-4e57-aa16-93c9dd14ce29",
     "timestamp": "2025-11-19T20:06:58.407375+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "941775d3-fdf0-42c5-9eb7-16a5465ca3d3",
+    "timestamp": "2025-11-19T20:15:22.435962+00:00"
   }
 ]
