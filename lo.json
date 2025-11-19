@@ -359,5 +359,26 @@
     "player": "filiposusek",
     "server_id": "b51bb028-05c6-4f8b-91ee-55e8bfc46a02",
     "timestamp": "2025-11-19T21:14:40.246259+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.5M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "66cd5e9a-deed-41cb-9d66-aefed091db7e",
+    "timestamp": "2025-11-19T21:15:41.340796+00:00"
   }
 ]
