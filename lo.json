@@ -656,5 +656,15 @@
     "screenshot_path": "sandbox:/mnt/data/7a8bca58-82db-4e35-a200-9ac0096ae870.png",
     "job": "89879d75-7e44-4330-83e7-fbf914f50da6",
     "timestamp": "2025-11-19T21:57:25.096775+00:00"
+  },
+  {
+    "found": false,
+    "place": "109983668079237",
+    "extra": {
+      "reason": "max_retries"
+    },
+    "screenshot_path": "sandbox:/mnt/data/7a8bca58-82db-4e35-a200-9ac0096ae870.png",
+    "job": "3becc2f6-e29a-4804-8b70-2ee9ead4353c",
+    "timestamp": "2025-11-19T22:00:22.516718+00:00"
   }
 ]
