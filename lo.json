@@ -792,5 +792,46 @@
     "player": "filiposusek",
     "server_id": "9e64246a-0016-444f-8c61-dd3f08a5a179",
     "timestamp": "2025-11-19T22:07:14.493037+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Torrtuginni Dragonfrutini",
+        "generation": "$2.9M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$3.1M/s"
+      },
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$2.6M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.7M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$2.9M/s"
+      },
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$1.8M/s"
+      },
+      {
+        "display_name": "Esok Sekolah",
+        "generation": "$30M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "filiposusek",
+    "server_id": "b5f9db5b-25cc-4072-9f25-93ac290dee9d",
+    "timestamp": "2025-11-19T22:08:05.384334+00:00"
   }
 ]
