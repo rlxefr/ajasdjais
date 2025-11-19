@@ -232,5 +232,18 @@
     "player": "filiposusek",
     "server_id": "acbd0e1a-8555-4ba5-b2b8-55c11dc0dec8",
     "timestamp": "2025-11-19T17:40:42.658854+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "6e50f914-b9e0-4ead-91a3-4566fccca702",
+    "timestamp": "2025-11-19T17:41:06.336337+00:00"
   }
 ]
