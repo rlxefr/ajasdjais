@@ -203,5 +203,22 @@
     "player": "filiposusek",
     "server_id": "b68f03ac-cba1-4a3d-9669-2be9a7e2b71e",
     "timestamp": "2025-11-19T22:16:17.466513+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "filiposusek",
+    "server_id": "b542db72-b5db-4300-b757-fc31f911c845",
+    "timestamp": "2025-11-19T22:17:49.347108+00:00"
   }
 ]
