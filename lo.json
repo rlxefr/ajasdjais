@@ -541,5 +541,22 @@
     "player": "filiposusek",
     "server_id": "490ad9e9-cbd4-42af-8a4d-45e63876299f",
     "timestamp": "2025-11-19T18:25:04.356052+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Quesadilla Crocodila",
+        "generation": "$3M/s"
+      },
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$8.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "c2df145c-648e-4f56-877b-a356e984c33f",
+    "timestamp": "2025-11-19T18:32:56.391865+00:00"
   }
 ]
