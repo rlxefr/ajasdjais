@@ -400,5 +400,30 @@
     "player": "filiposusek",
     "server_id": "39a7181a-92da-403e-8d76-3e11c6db1d11",
     "timestamp": "2025-11-19T18:12:33.214873+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "80e3b29b-0122-42ab-bd83-8608f757cedc",
+    "timestamp": "2025-11-19T18:13:39.963231+00:00"
   }
 ]
