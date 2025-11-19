@@ -380,5 +380,18 @@
     "player": "filiposusek",
     "server_id": "66cd5e9a-deed-41cb-9d66-aefed091db7e",
     "timestamp": "2025-11-19T21:15:41.340796+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "7b7e4dfa-68a5-458f-9e73-ffa10d12255f",
+    "timestamp": "2025-11-19T21:17:56.258947+00:00"
   }
 ]
