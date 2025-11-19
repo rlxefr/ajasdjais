@@ -1,1 +1,15 @@
-
+[
+  {
+    "pets": [
+      {
+        "display_name": "Quesadilla Crocodila",
+        "generation": "$3M/s"
+      }
+    ],
+    "place_id": "109983668079237",
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "2fa1a0ab-98a5-483e-b5bd-039c224ccfd6",
+    "timestamp": "2025-11-19T14:45:22.598306+00:00"
+  }
+]
