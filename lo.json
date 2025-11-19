@@ -57,5 +57,18 @@
     "player": "filiposusek",
     "server_id": "1f10eff1-ff3e-4a7d-bb4b-1da8084d17db",
     "timestamp": "2025-11-19T17:30:43.374060+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "filiposusek",
+    "server_id": "0aa4a8e1-345b-4525-adf6-d268cf168e71",
+    "timestamp": "2025-11-19T17:31:26.024542+00:00"
   }
 ]
