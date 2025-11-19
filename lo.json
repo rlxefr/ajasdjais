@@ -762,5 +762,22 @@
     "player": "filiposusek",
     "server_id": "d47f2896-3bad-4d76-bec6-af1e357f3391",
     "timestamp": "2025-11-19T22:05:26.239581+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "d47f2896-3bad-4d76-bec6-af1e357f3391",
+    "timestamp": "2025-11-19T22:05:58.279251+00:00"
   }
 ]
