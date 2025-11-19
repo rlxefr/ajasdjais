@@ -458,5 +458,18 @@
     "player": "filiposusek",
     "server_id": "2867c3dc-f2cc-4354-85b5-d21b242daf93",
     "timestamp": "2025-11-19T21:36:05.433852+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "31755ee8-e1b2-499a-810d-2129aac545f6",
+    "timestamp": "2025-11-19T21:38:37.721552+00:00"
   }
 ]
