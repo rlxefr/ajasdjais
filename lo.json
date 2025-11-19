@@ -301,5 +301,38 @@
     "player": "filiposusek",
     "server_id": "c1ff6d1d-9eb1-4fb5-87f8-aecb1931e5b3",
     "timestamp": "2025-11-19T18:05:51.802884+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$8.5M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$4.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "1fff942a-4401-4932-8b31-efaf086fa3b4",
+    "timestamp": "2025-11-19T18:07:09.874488+00:00"
   }
 ]
