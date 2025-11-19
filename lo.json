@@ -45,5 +45,30 @@
     "player": "filiposusek",
     "server_id": "48fc91ba-8b12-4cf4-84ad-b65749adb541",
     "timestamp": "2025-11-19T20:53:56.836010+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "fc6ae334-6a67-4f8e-870d-1f9848d07ac1",
+    "timestamp": "2025-11-19T20:55:47.412081+00:00"
   }
 ]
