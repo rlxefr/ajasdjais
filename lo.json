@@ -11,5 +11,18 @@
     "player": "filiposusek",
     "server_id": "8662d561-f538-4e5a-9cd6-a8e7a5327a55",
     "timestamp": "2025-11-19T20:51:18.248931+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$3.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "8662d561-f538-4e5a-9cd6-a8e7a5327a55",
+    "timestamp": "2025-11-19T20:51:24.445023+00:00"
   }
 ]
