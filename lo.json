@@ -93,5 +93,26 @@
     "player": "filiposusek",
     "server_id": "e667bfa4-5cf8-4bb1-8d56-19ee2d391d65",
     "timestamp": "2025-11-19T22:12:21.606107+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "e667bfa4-5cf8-4bb1-8d56-19ee2d391d65",
+    "timestamp": "2025-11-19T22:12:56.376295+00:00"
   }
 ]
