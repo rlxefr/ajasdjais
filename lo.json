@@ -15,5 +15,22 @@
     "player": "filiposusek",
     "server_id": "f96aaa97-458c-4a5a-ba3b-6ba3a1daf593",
     "timestamp": "2025-11-19T15:48:44.233807+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Esok Sekolah",
+        "generation": "$30M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "1f10eff1-ff3e-4a7d-bb4b-1da8084d17db",
+    "timestamp": "2025-11-19T16:46:53.553277+00:00"
   }
 ]
