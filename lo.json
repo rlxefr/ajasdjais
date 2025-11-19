@@ -592,5 +592,42 @@
     "player": "filiposusek",
     "server_id": "3cf7be8d-e88e-42e1-bc71-6b36b1fd285b",
     "timestamp": "2025-11-19T21:52:52.449766+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$5.7M/s"
+      },
+      {
+        "display_name": "Blackhole Goat",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "6d18e3f7-dc72-4891-bc25-490f0604eb64",
+    "timestamp": "2025-11-19T21:54:32.121744+00:00"
   }
 ]
