@@ -419,5 +419,18 @@
     "player": "filiposusek",
     "server_id": "4302159e-f2e5-451b-b90f-2a1f990962ff",
     "timestamp": "2025-11-19T21:28:33.489707+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 3,
+    "player": "filiposusek",
+    "server_id": "4438e512-388b-4dfe-a54d-ddd0ce2f17ea",
+    "timestamp": "2025-11-19T21:35:16.588576+00:00"
   }
 ]
