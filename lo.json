@@ -70,5 +70,26 @@
     "player": "filiposusek",
     "server_id": "fc6ae334-6a67-4f8e-870d-1f9848d07ac1",
     "timestamp": "2025-11-19T20:55:47.412081+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Dul Dul Dul",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "filiposusek",
+    "server_id": "8f70e0ec-4492-4649-9e18-7feb46f1f4eb",
+    "timestamp": "2025-11-19T21:01:32.829035+00:00"
   }
 ]
