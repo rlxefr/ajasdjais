@@ -406,5 +406,18 @@
     "player": "filiposusek",
     "server_id": "0ba1fcec-efdb-48ec-ae39-cd00a5a8b923",
     "timestamp": "2025-11-19T21:27:30.848290+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Vulturino Skeletono",
+        "generation": "$1.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "filiposusek",
+    "server_id": "4302159e-f2e5-451b-b90f-2a1f990962ff",
+    "timestamp": "2025-11-19T21:28:33.489707+00:00"
   }
 ]
