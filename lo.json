@@ -1,1 +1,19 @@
-
+[
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "cdcba766-321d-4672-9afa-aaae454b09f6",
+    "timestamp": "2025-11-19T19:25:39.980733+00:00"
+  }
+]
