@@ -587,5 +587,26 @@
     "player": "filiposusek",
     "server_id": "0260b3a3-e4dc-4cf6-903d-24c37cef9db6",
     "timestamp": "2025-11-19T18:34:28.921457+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Bisonte Giuppitere",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "992cc679-834d-45b8-b906-db4ae70afd6b",
+    "timestamp": "2025-11-19T18:41:51.582323+00:00"
   }
 ]
