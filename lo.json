@@ -207,5 +207,26 @@
     "player": "filiposusek",
     "server_id": "d1b40f37-64fc-4c62-9733-788b8674bc1e",
     "timestamp": "2025-11-19T21:10:09.179609+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$3.3M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 4,
+    "player": "filiposusek",
+    "server_id": "b9e1bbbb-7ee5-4683-a78e-04f59a69955e",
+    "timestamp": "2025-11-19T21:12:19.474147+00:00"
   }
 ]
