@@ -36,5 +36,18 @@
     "player": "filiposusek",
     "server_id": "9cbefa52-5847-4126-9220-fdde9ef19515",
     "timestamp": "2025-11-19T19:32:57.621761+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "filiposusek",
+    "server_id": "24183b6b-1bb8-4361-b88e-372916d7c5c4",
+    "timestamp": "2025-11-19T19:34:18.569663+00:00"
   }
 ]
