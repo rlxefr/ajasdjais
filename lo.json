@@ -182,5 +182,26 @@
     "player": "filiposusek",
     "server_id": "fe232e19-7d79-40df-9d0c-f1a98ad6f861",
     "timestamp": "2025-11-19T22:15:22.903255+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "b68f03ac-cba1-4a3d-9669-2be9a7e2b71e",
+    "timestamp": "2025-11-19T22:16:17.466513+00:00"
   }
 ]
