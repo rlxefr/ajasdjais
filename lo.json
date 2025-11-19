@@ -126,5 +126,50 @@
     "player": "filiposusek",
     "server_id": "52558897-8e44-44c7-abd7-2a8850a47fc9",
     "timestamp": "2025-11-19T20:37:03.841124+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$18.7M/s"
+      },
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$3.1M/s"
+      },
+      {
+        "display_name": "67",
+        "generation": "$7.5M/s"
+      },
+      {
+        "display_name": "Los Jobcitos",
+        "generation": "$10.1M/s"
+      },
+      {
+        "display_name": "Esok Sekolah",
+        "generation": "$255M/s"
+      },
+      {
+        "display_name": "Los Combinasionas",
+        "generation": "$15M/s"
+      },
+      {
+        "display_name": "Chicleteira Bicicleteira",
+        "generation": "$5.2M/s"
+      },
+      {
+        "display_name": "Quesadilla Crocodila",
+        "generation": "$22.5M/s"
+      },
+      {
+        "display_name": "Las Vaquitas Saturnitas",
+        "generation": "$7.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 1,
+    "player": "rlxescripts",
+    "server_id": "409cc2dc-2975-4192-85a8-523e774df84b",
+    "timestamp": "2025-11-19T20:41:16.382000+00:00"
   }
 ]
