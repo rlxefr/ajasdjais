@@ -516,5 +516,30 @@
     "player": "filiposusek",
     "server_id": "490ad9e9-cbd4-42af-8a4d-45e63876299f",
     "timestamp": "2025-11-19T18:25:02.390384+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Tralalita Tralala",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Tralalita Tralala",
+        "generation": "$1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "filiposusek",
+    "server_id": "490ad9e9-cbd4-42af-8a4d-45e63876299f",
+    "timestamp": "2025-11-19T18:25:04.356052+00:00"
   }
 ]
