@@ -1,1 +1,19 @@
-
+[
+  {
+    "pets": [
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$2.8M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": "109983668079237",
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "f96aaa97-458c-4a5a-ba3b-6ba3a1daf593",
+    "timestamp": "2025-11-19T15:48:44.233807+00:00"
+  }
+]
