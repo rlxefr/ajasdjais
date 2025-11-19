@@ -32,5 +32,26 @@
     "player": "filiposusek",
     "server_id": "490ad9e9-cbd4-42af-8a4d-45e63876299f",
     "timestamp": "2025-11-19T19:46:47.346402+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.5M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "a865a656-eb91-4e57-aa16-93c9dd14ce29",
+    "timestamp": "2025-11-19T20:06:58.407375+00:00"
   }
 ]
