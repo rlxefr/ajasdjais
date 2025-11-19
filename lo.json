@@ -497,5 +497,70 @@
     "player": "filiposusek",
     "server_id": "fcf29348-58ea-4b4b-ae1e-290e7c32544e",
     "timestamp": "2025-11-19T21:43:35.108712+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Jobcitos",
+        "generation": "$1.5M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Tractoro Dinosauro",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$6.8M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$5.7M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$7.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "filiposusek",
+    "server_id": "c2a9f8b8-5afe-4e15-bf30-f83b5a1fdb24",
+    "timestamp": "2025-11-19T21:51:02.982633+00:00"
   }
 ]
