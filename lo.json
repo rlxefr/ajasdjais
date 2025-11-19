@@ -91,5 +91,18 @@
     "player": "filiposusek",
     "server_id": "8f70e0ec-4492-4649-9e18-7feb46f1f4eb",
     "timestamp": "2025-11-19T21:01:32.829035+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Torrtuginni Dragonfrutini",
+        "generation": "$3.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "filiposusek",
+    "server_id": "c2407bfe-e7b9-42bb-af69-8f2e2e8011d8",
+    "timestamp": "2025-11-19T21:02:14.221197+00:00"
   }
 ]
