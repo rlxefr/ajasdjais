@@ -1719,5 +1719,34 @@
     "player": "filiposusek",
     "server_id": "d77fcaf8-4f58-43b9-9f5e-734f6e6d16c8",
     "timestamp": "2025-11-20T21:06:48.531744+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Karkerkar Kurkur",
+        "generation": "$2.7M/s"
+      },
+      {
+        "display_name": "Sammyni Spyderini",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "filiposusek",
+    "server_id": "18ae10b7-d3d2-40a0-b2b6-50b1237b2610",
+    "timestamp": "2025-11-20T21:10:14.115290+00:00"
   }
 ]
