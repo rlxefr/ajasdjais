@@ -255,5 +255,38 @@
     "player": "filiposusek",
     "server_id": "41a1fd8f-c9fa-4979-bddb-555590024195",
     "timestamp": "2025-11-20T20:51:34.652804+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Karkerkar Kurkur",
+        "generation": "$1.3M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "728243dc-5964-472b-8df3-b0cf8ec8695c",
+    "timestamp": "2025-11-20T20:53:52.103176+00:00"
   }
 ]
