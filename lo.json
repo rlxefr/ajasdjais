@@ -1657,5 +1657,42 @@
     "player": "filiposusek",
     "server_id": "d123d99c-6585-4d5c-a34a-56b20a866766",
     "timestamp": "2025-11-20T21:06:11.283831+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$3.5M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$1.6M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$1.6M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "filiposusek",
+    "server_id": "2cd95880-c78f-4a8a-aa42-d61e2e72d61e",
+    "timestamp": "2025-11-20T21:06:30.176363+00:00"
   }
 ]
