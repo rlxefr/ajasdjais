@@ -1906,5 +1906,26 @@
     "player": "filiposusek",
     "server_id": "1c512f2a-6cbe-4bee-b2e7-42e6d1da5292",
     "timestamp": "2025-11-20T21:13:19.738434+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$6.5M/s"
+      },
+      {
+        "display_name": "Los Tortus",
+        "generation": "$3M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "filiposusek",
+    "server_id": "60b5005a-a01d-479e-b91e-7a6471e47e27",
+    "timestamp": "2025-11-20T21:13:38.225252+00:00"
   }
 ]
