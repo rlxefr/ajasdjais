@@ -53,5 +53,34 @@
     "player": "filiposusek",
     "server_id": "6ef7c5ff-d2ac-4156-82d9-95b96d6dca09",
     "timestamp": "2025-11-20T20:45:35.016501+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$8.5M/s"
+      },
+      {
+        "display_name": "Chicleteira Bicicleteira",
+        "generation": "$31.5M/s"
+      },
+      {
+        "display_name": "Los Combinasionas",
+        "generation": "$15M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "6ef7c5ff-d2ac-4156-82d9-95b96d6dca09",
+    "timestamp": "2025-11-20T20:45:46.388643+00:00"
   }
 ]
