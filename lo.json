@@ -2207,5 +2207,38 @@
     "player": "filiposusek",
     "server_id": "2d1ddf20-719c-4016-afaf-9fea3e793791",
     "timestamp": "2025-11-20T21:19:26.479202+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "2d1ddf20-719c-4016-afaf-9fea3e793791",
+    "timestamp": "2025-11-20T21:19:45.060610+00:00"
   }
 ]
