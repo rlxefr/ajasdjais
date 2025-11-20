@@ -1585,5 +1585,18 @@
     "player": "filiposusek",
     "server_id": "5bc3846d-f2bf-4545-a88d-17d086e4d59c",
     "timestamp": "2025-11-20T21:03:46.709534+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "0d05ff77-c10b-46e1-98a0-e7d21aeee12c",
+    "timestamp": "2025-11-20T21:04:03.780166+00:00"
   }
 ]
