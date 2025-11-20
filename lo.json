@@ -2240,5 +2240,34 @@
     "player": "filiposusek",
     "server_id": "2d1ddf20-719c-4016-afaf-9fea3e793791",
     "timestamp": "2025-11-20T21:19:45.060610+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "filiposusek",
+    "server_id": "2a9c0de6-9043-4aa9-a702-368d52bcbdd6",
+    "timestamp": "2025-11-20T21:20:27.737208+00:00"
   }
 ]
