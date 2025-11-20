@@ -404,5 +404,22 @@
     "player": "filiposusek",
     "server_id": "9652a43c-be1b-4504-9a11-1b0e4102e0ea",
     "timestamp": "2025-11-20T20:57:06.905069+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$1.6M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$1.6M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "9652a43c-be1b-4504-9a11-1b0e4102e0ea",
+    "timestamp": "2025-11-20T20:57:17.375571+00:00"
   }
 ]
