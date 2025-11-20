@@ -1018,5 +1018,34 @@
     "player": "filiposusek",
     "server_id": "6196858a-a0a9-4a8c-b9e9-ab574489af9e",
     "timestamp": "2025-11-20T19:56:16.723456+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$2.3M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "6196858a-a0a9-4a8c-b9e9-ab574489af9e",
+    "timestamp": "2025-11-20T19:56:50.605740+00:00"
   }
 ]
