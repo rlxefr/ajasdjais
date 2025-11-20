@@ -354,5 +354,26 @@
     "player": "filiposusek",
     "server_id": "159d6552-4a00-41c8-babe-e8092bd11c6a",
     "timestamp": "2025-11-20T13:13:48.040939+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "b2236f41-4dac-4761-ad8f-6c81a5dab933",
+    "timestamp": "2025-11-20T13:15:03.292766+00:00"
   }
 ]
