@@ -719,5 +719,22 @@
     "player": "filiposusek",
     "server_id": "881700e6-d6a6-4568-813c-cbf610c13d96",
     "timestamp": "2025-11-20T14:25:22.069699+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 2,
+    "player": "filiposusek",
+    "server_id": "881700e6-d6a6-4568-813c-cbf610c13d96",
+    "timestamp": "2025-11-20T14:25:32.937246+00:00"
   }
 ]
