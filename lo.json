@@ -918,5 +918,26 @@
     "player": "filiposusek",
     "server_id": "1a52560c-1931-41e5-888e-dc3f53496ace",
     "timestamp": "2025-11-20T15:05:53.895470+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$3.3M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "filiposusek",
+    "server_id": "f6bda22f-2fbd-4b64-81f6-91375b2b6a8a",
+    "timestamp": "2025-11-20T15:08:14.334981+00:00"
   }
 ]
