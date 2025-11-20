@@ -1940,5 +1940,26 @@
     "player": "filiposusek",
     "server_id": "0d766821-38f7-4270-bcae-7909a74aafcf",
     "timestamp": "2025-11-20T21:14:17.371253+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "filiposusek",
+    "server_id": "b4e28bc2-0bd3-4650-9292-1a56200baffc",
+    "timestamp": "2025-11-20T21:14:51.333044+00:00"
   }
 ]
