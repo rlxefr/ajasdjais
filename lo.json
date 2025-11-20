@@ -960,5 +960,34 @@
     "player": "filiposusek",
     "server_id": "f1b3857e-37f6-4cd1-9a41-3747d5d605da",
     "timestamp": "2025-11-20T19:53:37.504826+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$21.2M/s"
+      },
+      {
+        "display_name": "La Vacca Saturno Saturnita",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "filiposusek",
+    "server_id": "6196858a-a0a9-4a8c-b9e9-ab574489af9e",
+    "timestamp": "2025-11-20T19:54:12.461355+00:00"
   }
 ]
