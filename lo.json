@@ -2303,5 +2303,22 @@
     "player": "filiposusek",
     "server_id": "0f12673e-bfc3-4937-9fe4-751a7b698b5b",
     "timestamp": "2025-11-20T21:22:54.742638+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "0f12673e-bfc3-4937-9fe4-751a7b698b5b",
+    "timestamp": "2025-11-20T21:22:58.282208+00:00"
   }
 ]
