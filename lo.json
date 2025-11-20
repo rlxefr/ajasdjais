@@ -501,5 +501,30 @@
     "player": "filiposusek",
     "server_id": "18225557-fb7b-48c6-9b67-09e3a61934ad",
     "timestamp": "2025-11-20T13:53:13.808471+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "85719280-e23b-4fb0-8a6a-e6fea5c1a584",
+    "timestamp": "2025-11-20T13:55:21.569283+00:00"
   }
 ]
