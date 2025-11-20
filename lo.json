@@ -304,5 +304,26 @@
     "player": "filiposusek",
     "server_id": "47ecf209-6d79-47e3-942b-44365e46862b",
     "timestamp": "2025-11-20T13:11:54.909595+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Karkerkar Kurkur",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$3.9M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.7M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "filiposusek",
+    "server_id": "47ecf209-6d79-47e3-942b-44365e46862b",
+    "timestamp": "2025-11-20T13:11:57.067143+00:00"
   }
 ]
