@@ -2116,5 +2116,42 @@
     "player": "filiposusek",
     "server_id": "b2ff17fb-96e9-40ea-aef3-3ca08c1971a7",
     "timestamp": "2025-11-20T21:17:27.600818+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.7M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Vulturino Skeletono",
+        "generation": "$3M/s"
+      },
+      {
+        "display_name": "Torrtuginni Dragonfrutini",
+        "generation": "$2.9M/s"
+      },
+      {
+        "display_name": "La Vacca Saturno Saturnita",
+        "generation": "$2.7M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "b2ff17fb-96e9-40ea-aef3-3ca08c1971a7",
+    "timestamp": "2025-11-20T21:17:46.390468+00:00"
   }
 ]
