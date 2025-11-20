@@ -472,5 +472,34 @@
     "player": "filiposusek",
     "server_id": "0b26ac7b-da8b-4ae0-aed1-0cc9bb3b619f",
     "timestamp": "2025-11-20T13:49:47.583342+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Job Job Job Sahur",
+        "generation": "$5.9M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Quesadilla Crocodila",
+        "generation": "$9M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$8.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "18225557-fb7b-48c6-9b67-09e3a61934ad",
+    "timestamp": "2025-11-20T13:53:13.808471+00:00"
   }
 ]
