@@ -1076,5 +1076,18 @@
     "player": "filiposusek",
     "server_id": "6196858a-a0a9-4a8c-b9e9-ab574489af9e",
     "timestamp": "2025-11-20T19:58:34.410078+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Job Job Job Sahur",
+        "generation": "$5.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "2e5607cd-5e71-4ed4-9cdd-9fbe01e6527c",
+    "timestamp": "2025-11-20T19:59:22.558492+00:00"
   }
 ]
