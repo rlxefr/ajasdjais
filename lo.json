@@ -847,5 +847,26 @@
     "player": "filiposusek",
     "server_id": "2e2a9423-2c9d-44d3-af3d-87b835b682de",
     "timestamp": "2025-11-20T15:03:21.294137+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "62beb381-2b85-4657-8716-18110afb58fd",
+    "timestamp": "2025-11-20T15:03:52.483948+00:00"
   }
 ]
