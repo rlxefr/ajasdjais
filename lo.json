@@ -325,5 +325,34 @@
     "player": "filiposusek",
     "server_id": "47ecf209-6d79-47e3-942b-44365e46862b",
     "timestamp": "2025-11-20T13:11:57.067143+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "159d6552-4a00-41c8-babe-e8092bd11c6a",
+    "timestamp": "2025-11-20T13:13:48.040939+00:00"
   }
 ]
