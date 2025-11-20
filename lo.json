@@ -939,5 +939,26 @@
     "player": "filiposusek",
     "server_id": "f6bda22f-2fbd-4b64-81f6-91375b2b6a8a",
     "timestamp": "2025-11-20T15:08:14.334981+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Job Job Job Sahur",
+        "generation": "$2.9M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "f1b3857e-37f6-4cd1-9a41-3747d5d605da",
+    "timestamp": "2025-11-20T19:53:37.504826+00:00"
   }
 ]
