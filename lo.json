@@ -1837,5 +1837,18 @@
     "player": "filiposusek",
     "server_id": "039ee115-cc17-4da1-99b6-d0205f1b2dcf",
     "timestamp": "2025-11-20T21:11:46.510685+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trenostruzzo Turbo 3000",
+        "generation": "$1.7M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "00061134-9951-44e1-a0b7-d09eb2515dcf",
+    "timestamp": "2025-11-20T21:12:04.943420+00:00"
   }
 ]
