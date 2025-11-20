@@ -82,5 +82,22 @@
     "player": "filiposusek",
     "server_id": "6ef7c5ff-d2ac-4156-82d9-95b96d6dca09",
     "timestamp": "2025-11-20T20:45:46.388643+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "6ef7c5ff-d2ac-4156-82d9-95b96d6dca09",
+    "timestamp": "2025-11-20T20:46:12.831494+00:00"
   }
 ]
