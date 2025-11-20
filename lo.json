@@ -1615,5 +1615,34 @@
     "player": "filiposusek",
     "server_id": "0d05ff77-c10b-46e1-98a0-e7d21aeee12c",
     "timestamp": "2025-11-20T21:05:36.064489+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Blackhole Goat",
+        "generation": "$3.4M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$12.5M/s"
+      },
+      {
+        "display_name": "Chachechi",
+        "generation": "$4.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "filiposusek",
+    "server_id": "bdc16e5d-acd9-4e6d-9de4-a7bdd4e92258",
+    "timestamp": "2025-11-20T21:05:52.496597+00:00"
   }
 ]
