@@ -354,5 +354,30 @@
     "player": "filiposusek",
     "server_id": "728243dc-5964-472b-8df3-b0cf8ec8695c",
     "timestamp": "2025-11-20T20:54:12.984078+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$1.8M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$2.3M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "9652a43c-be1b-4504-9a11-1b0e4102e0ea",
+    "timestamp": "2025-11-20T20:56:56.350619+00:00"
   }
 ]
