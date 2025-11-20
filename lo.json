@@ -11,5 +11,18 @@
     "player": "filiposusek",
     "server_id": "0f5c7994-33ac-4d0a-9111-ddd1c2c1bdb2",
     "timestamp": "2025-11-20T20:36:41.944117+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "0f5c7994-33ac-4d0a-9111-ddd1c2c1bdb2",
+    "timestamp": "2025-11-20T20:37:15.593409+00:00"
   }
 ]
