@@ -1089,5 +1089,18 @@
     "player": "filiposusek",
     "server_id": "2e5607cd-5e71-4ed4-9cdd-9fbe01e6527c",
     "timestamp": "2025-11-20T19:59:22.558492+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Blackhole Goat",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "75f0cc39-5710-46af-aa4a-a4981ace9fd0",
+    "timestamp": "2025-11-20T20:15:12.489705+00:00"
   }
 ]
