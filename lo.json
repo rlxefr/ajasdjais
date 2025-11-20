@@ -1850,5 +1850,22 @@
     "player": "filiposusek",
     "server_id": "00061134-9951-44e1-a0b7-d09eb2515dcf",
     "timestamp": "2025-11-20T21:12:04.943420+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "filiposusek",
+    "server_id": "4592290b-3e51-42da-95a0-aecd0b1dc2fc",
+    "timestamp": "2025-11-20T21:12:38.815183+00:00"
   }
 ]
