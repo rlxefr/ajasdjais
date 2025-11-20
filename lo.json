@@ -1598,5 +1598,22 @@
     "player": "filiposusek",
     "server_id": "0d05ff77-c10b-46e1-98a0-e7d21aeee12c",
     "timestamp": "2025-11-20T21:04:03.780166+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "0d05ff77-c10b-46e1-98a0-e7d21aeee12c",
+    "timestamp": "2025-11-20T21:05:36.064489+00:00"
   }
 ]
