@@ -409,5 +409,26 @@
     "player": "filiposusek",
     "server_id": "ba3d5aa5-0e04-4139-bb24-b0c2badaf3c7",
     "timestamp": "2025-11-20T13:18:33.115189+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$5.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "filiposusek",
+    "server_id": "ba3d5aa5-0e04-4139-bb24-b0c2badaf3c7",
+    "timestamp": "2025-11-20T13:19:03.817599+00:00"
   }
 ]
