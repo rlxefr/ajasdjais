@@ -3101,5 +3101,46 @@
     "player": "sigmaneagfas",
     "server_id": "3ecf8511-8b49-46c2-8ee6-51aa79beff50",
     "timestamp": "2025-11-21T19:54:27.993212+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Brr es Teh Patipum",
+        "generation": "$1.5M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.7M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$2.8M/s"
+      },
+      {
+        "display_name": "Urubini Flamenguini",
+        "generation": "$1.5M/s"
+      },
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$1.5M/s"
+      },
+      {
+        "display_name": "Trenostruzzo Turbo 3000",
+        "generation": "$1.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "3ecf8511-8b49-46c2-8ee6-51aa79beff50",
+    "timestamp": "2025-11-21T19:54:39.144330+00:00"
   }
 ]
