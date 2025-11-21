@@ -2369,5 +2369,22 @@
     "player": "filiposusek",
     "server_id": "e0161f48-2845-48e7-a148-7663864a9002",
     "timestamp": "2025-11-21T15:45:14.309011+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "filiposusek",
+    "server_id": "c7bde243-b75b-4274-a6be-a397458412b5",
+    "timestamp": "2025-11-21T15:55:26.094798+00:00"
   }
 ]
