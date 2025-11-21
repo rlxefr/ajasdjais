@@ -2696,5 +2696,22 @@
     "player": "saturnautojoiner23",
     "server_id": "ff0fc234-e226-4b4f-b7df-9ec10c16da45",
     "timestamp": "2025-11-21T19:45:42.587684+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "saturnautojoiner23",
+    "server_id": "10847479-6ecf-432e-b97f-6da4672314bf",
+    "timestamp": "2025-11-21T19:47:12.619903+00:00"
   }
 ]
