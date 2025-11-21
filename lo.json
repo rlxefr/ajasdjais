@@ -3317,5 +3317,26 @@
     "player": "saturnautojoiner23",
     "server_id": "25b8ca20-9b4e-49e8-a3a1-a2608c80f2a5",
     "timestamp": "2025-11-21T19:55:43.074647+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$6.7M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "25b8ca20-9b4e-49e8-a3a1-a2608c80f2a5",
+    "timestamp": "2025-11-21T19:55:48.523557+00:00"
   }
 ]
