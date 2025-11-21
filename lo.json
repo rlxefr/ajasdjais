@@ -2646,5 +2646,42 @@
     "player": "sigmaneagfas",
     "server_id": "cf0c76f0-20e1-4c81-9d19-0cb092ab9da3",
     "timestamp": "2025-11-21T19:40:14.092789+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Quesadilla Crocodila",
+        "generation": "$4.5M/s"
+      },
+      {
+        "display_name": "Quesadilla Crocodila",
+        "generation": "$3.7M/s"
+      },
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$2.8M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "sigmaneagfas",
+    "server_id": "7377e5e1-ca21-468f-b230-93d0a9bbad35",
+    "timestamp": "2025-11-21T19:42:06.036667+00:00"
   }
 ]
