@@ -2593,5 +2593,33 @@
     "player": "filiposusek",
     "server_id": "c671b742-f598-410f-b7f3-4dbb8582b821",
     "timestamp": "2025-11-21T16:20:34.355990+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Jobcitos",
+        "generation": "$11.2M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$5.7M/s"
+      },
+      {
+        "display_name": "Los Tortus",
+        "generation": "$8M/s"
+      },
+      {
+        "display_name": "La Vacca Saturno Saturnita",
+        "generation": "$3M/s"
+      }
+    ],
+    "server": {
+      "server_id": "cf0c76f0-20e1-4c81-9d19-0cb092ab9da3",
+      "place_id": 109983668079237,
+      "server_link": "https://www.roblox.com/games/start?placeId=109983668079237&gameInstanceId=cf0c76f0-20e1-4c81-9d19-0cb092ab9da3",
+      "player_count": 5,
+      "player": "sigmaneagfas"
+    },
+    "timestamp": "2025-11-21T19:35:21.306932+00:00"
   }
 ]
