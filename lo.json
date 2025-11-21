@@ -2386,5 +2386,30 @@
     "player": "filiposusek",
     "server_id": "c7bde243-b75b-4274-a6be-a397458412b5",
     "timestamp": "2025-11-21T15:55:26.094798+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "filiposusek",
+    "server_id": "fa8eeb10-9ae9-44d5-931c-2ffb59c03023",
+    "timestamp": "2025-11-21T15:57:14.483164+00:00"
   }
 ]
