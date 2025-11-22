@@ -4704,5 +4704,30 @@
     "player": "saturnautojoiner23",
     "server_id": "90624a32-7e7c-4c8c-a0c1-ac5b3c0fc611",
     "timestamp": "2025-11-22T15:31:58.557548+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$3.3M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "045bc565-b7b8-4175-892b-84d3ee860f78",
+    "timestamp": "2025-11-22T15:32:04.181235+00:00"
   }
 ]
