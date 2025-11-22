@@ -1817,5 +1817,26 @@
     "player": "saturnautojoiner23",
     "server_id": "f20ffb13-19f2-4811-b2a1-20249fdeb01d",
     "timestamp": "2025-11-22T13:43:48.910611+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$6.4M/s"
+      },
+      {
+        "display_name": "Los Jobcitos",
+        "generation": "$15M/s"
+      },
+      {
+        "display_name": "Los Bros",
+        "generation": "$24M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "sigmaneagfas",
+    "server_id": "80b0d603-ab34-4333-9238-10f66834307c",
+    "timestamp": "2025-11-22T13:44:18.146306+00:00"
   }
 ]
