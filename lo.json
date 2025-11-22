@@ -1995,5 +1995,22 @@
     "player": "asjhdajskdashdja",
     "server_id": "49d0ec6f-ff33-429d-a1b2-c05860cc7dd2",
     "timestamp": "2025-11-22T15:07:44.576815+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "49d0ec6f-ff33-429d-a1b2-c05860cc7dd2",
+    "timestamp": "2025-11-22T15:07:52.432179+00:00"
   }
 ]
