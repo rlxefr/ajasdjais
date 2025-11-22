@@ -646,5 +646,18 @@
     "player": "asjhdajskdashdja",
     "server_id": "24cc000b-8d67-4c57-9a8b-2a7844cd3ade",
     "timestamp": "2025-11-22T14:47:28.525079+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$4.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "24cc000b-8d67-4c57-9a8b-2a7844cd3ade",
+    "timestamp": "2025-11-22T14:47:35.325207+00:00"
   }
 ]
