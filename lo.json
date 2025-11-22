@@ -3605,5 +3605,26 @@
     "player": "sigmaneagfas",
     "server_id": "7a009077-0922-452e-a8d7-e0384bb841bf",
     "timestamp": "2025-11-22T15:27:26.810211+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$1.6M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 3,
+    "player": "asjhdajskdashdja",
+    "server_id": "171b731f-c9ff-4369-bd6d-38afacf214ae",
+    "timestamp": "2025-11-22T15:27:31.892397+00:00"
   }
 ]
