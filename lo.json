@@ -2008,5 +2008,26 @@
     "player": "saturnautojoiner23",
     "server_id": "bec1913b-5f66-4de2-8a28-5810acf4d44a",
     "timestamp": "2025-11-22T13:45:33.256551+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$2.5M/s"
+      },
+      {
+        "display_name": "Los Tortus",
+        "generation": "$5.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "bec1913b-5f66-4de2-8a28-5810acf4d44a",
+    "timestamp": "2025-11-22T13:45:35.791673+00:00"
   }
 ]
