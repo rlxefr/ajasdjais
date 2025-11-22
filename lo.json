@@ -5125,5 +5125,18 @@
     "player": "sigmaneagfas",
     "server_id": "9c870597-c655-462a-bebd-47acfe2f30f5",
     "timestamp": "2025-11-22T14:15:15.280654+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "9c870597-c655-462a-bebd-47acfe2f30f5",
+    "timestamp": "2025-11-22T14:15:19.380488+00:00"
   }
 ]
