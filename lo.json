@@ -1203,5 +1203,30 @@
     "player": "saturnautojoiner23",
     "server_id": "7ec52fbe-3d30-4a5c-88ff-5b00d83675fb",
     "timestamp": "2025-11-22T13:12:32.678378+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "32abae87-fa91-494e-bbad-b9dda16ca61d",
+    "timestamp": "2025-11-22T13:12:57.791582+00:00"
   }
 ]
