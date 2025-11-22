@@ -2576,5 +2576,30 @@
     "player": "saturnautojoiner23",
     "server_id": "9d399ec1-695e-4414-8126-1b5444a5a597",
     "timestamp": "2025-11-22T15:12:43.633593+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Trenostruzzo Turbo 3000",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "a9531c66-4c89-4ba3-a655-233addacdea6",
+    "timestamp": "2025-11-22T15:12:53.474519+00:00"
   }
 ]
