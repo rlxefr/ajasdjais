@@ -3302,5 +3302,30 @@
     "player": "asjhdajskdashdja",
     "server_id": "d8904233-1a63-4c75-812b-3cd2948f8386",
     "timestamp": "2025-11-22T15:25:04.630568+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "4ab3b0a1-ba33-48c4-a5df-0b61f187ceed",
+    "timestamp": "2025-11-22T15:25:16.497079+00:00"
   }
 ]
