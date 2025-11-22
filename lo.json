@@ -1292,5 +1292,26 @@
     "player": "asjhdajskdashdja",
     "server_id": "a2ae05d9-9ff5-4270-88fa-f29d677c8be8",
     "timestamp": "2025-11-22T14:59:38.076556+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "La Vacca Saturno Saturnita",
+        "generation": "$1.5M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$1.5M/s"
+      },
+      {
+        "display_name": "La Vacca Saturno Saturnita",
+        "generation": "$3M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "84cb65af-c0bc-4a1d-9aa2-c8bcf632f688",
+    "timestamp": "2025-11-22T14:59:38.922806+00:00"
   }
 ]
