@@ -4030,5 +4030,18 @@
     "player": "saturnautojoiner23",
     "server_id": "517d6493-9322-4ecc-9c09-e000889cd8da",
     "timestamp": "2025-11-22T15:30:02.756997+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "d372f94d-5d7f-41bf-acf7-a722e3c39099",
+    "timestamp": "2025-11-22T15:30:06.383021+00:00"
   }
 ]
