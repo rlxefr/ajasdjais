@@ -5839,5 +5839,33 @@
     "player": "sigmaneagfas",
     "server_id": "5757e1eb-186c-47e3-a120-114ae52c3588",
     "timestamp": "2025-11-22T15:42:38.808329+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$2.5M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Urubini Flamenguini",
+        "generation": "$2.9M/s"
+      },
+      {
+        "display_name": "Bisonte Giuppitere",
+        "generation": "$1.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player": "sigmaneagfas",
+    "server_id": "5757e1eb-186c-47e3-a120-114ae52c3588",
+    "timestamp": "2025-11-22T15:42:49.124800+00:00"
   }
 ]
