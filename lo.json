@@ -531,5 +531,30 @@
     "player": "sigmaneagfas",
     "server_id": "f09726d1-e947-456b-85ff-b0212be4a8b2",
     "timestamp": "2025-11-22T14:46:02.747683+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "sigmaneagfas",
+    "server_id": "f09726d1-e947-456b-85ff-b0212be4a8b2",
+    "timestamp": "2025-11-22T14:46:10.843648+00:00"
   }
 ]
