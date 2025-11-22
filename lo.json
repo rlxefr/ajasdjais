@@ -3011,5 +3011,22 @@
     "player": "saturnautojoiner23",
     "server_id": "4f3e1355-045e-43ed-842e-ed54fb07fbb8",
     "timestamp": "2025-11-22T15:23:00.762321+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 4,
+    "player": "asjhdajskdashdja",
+    "server_id": "e1c0a969-40e2-46f7-a2a4-607fcf83c6d1",
+    "timestamp": "2025-11-22T15:23:03.349920+00:00"
   }
 ]
