@@ -1688,5 +1688,34 @@
     "player": "asjhdajskdashdja",
     "server_id": "892b1a0d-ef52-4245-9d11-9a495354f270",
     "timestamp": "2025-11-22T15:04:40.126822+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$2.8M/s"
+      },
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$2.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "saturnautojoiner23",
+    "server_id": "892b1a0d-ef52-4245-9d11-9a495354f270",
+    "timestamp": "2025-11-22T15:04:42.230117+00:00"
   }
 ]
