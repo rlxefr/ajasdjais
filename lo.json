@@ -655,5 +655,42 @@
     "player": "sigmaneagfas",
     "server_id": "4fd837d3-9f1a-4ee3-901f-ccc59a07f4cd",
     "timestamp": "2025-11-22T13:29:27.322280+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$5M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "La Vacca Saturno Saturnita",
+        "generation": "$1.5M/s"
+      },
+      {
+        "display_name": "Los Tortus",
+        "generation": "$5.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "b1eafec0-f746-49ab-b666-aa6716fc7bea",
+    "timestamp": "2025-11-22T13:29:40.821295+00:00"
   }
 ]
