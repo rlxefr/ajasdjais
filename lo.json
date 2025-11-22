@@ -2739,5 +2739,38 @@
     "player": "asjhdajskdashdja",
     "server_id": "517d6493-9322-4ecc-9c09-e000889cd8da",
     "timestamp": "2025-11-22T15:21:54.405674+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Job Job Job Sahur",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "asjhdajskdashdja",
+    "server_id": "50bb51f2-15fc-49b2-a0ce-72c284cf167c",
+    "timestamp": "2025-11-22T15:21:55.765656+00:00"
   }
 ]
