@@ -6826,5 +6826,18 @@
     "player": "asjhdajskdashdja",
     "server_id": "532bcdf4-d170-4e39-aa27-0fbcc6731650",
     "timestamp": "2025-11-22T14:37:40.335619+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "e1e4e0bc-ae86-4edb-a624-92b7f8ce0e0a",
+    "timestamp": "2025-11-22T14:38:48.120118+00:00"
   }
 ]
