@@ -5035,5 +5035,38 @@
     "player": "asjhdajskdashdja",
     "server_id": "f12be652-2e24-4a67-a0cd-b4c14d0fb646",
     "timestamp": "2025-11-22T15:33:34.700273+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$1.6M/s"
+      },
+      {
+        "display_name": "Trenostruzzo Turbo 3000",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Los Tortus",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Tralalita Tralala",
+        "generation": "$1.3M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "90624a32-7e7c-4c8c-a0c1-ac5b3c0fc611",
+    "timestamp": "2025-11-22T15:33:37.669008+00:00"
   }
 ]
