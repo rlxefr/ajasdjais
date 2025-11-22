@@ -2447,5 +2447,58 @@
     "player": "sigmaneagfas",
     "server_id": "ba9f2c4b-8ebf-48e1-a030-a451ef77937a",
     "timestamp": "2025-11-22T13:49:16.539326+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Dul Dul Dul",
+        "generation": "$1.8M/s"
+      },
+      {
+        "display_name": "Piccione Macchina",
+        "generation": "$2.5M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$4M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$2.8M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "4f63a93f-f276-44f1-a309-731993ad5d99",
+    "timestamp": "2025-11-22T13:56:27.188416+00:00"
   }
 ]
