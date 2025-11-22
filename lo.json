@@ -154,5 +154,46 @@
     "player": "saturnautojoiner23",
     "server_id": "244862a2-d8dc-4f76-95c3-617e2bef554d",
     "timestamp": "2025-11-22T14:42:09.414076+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Blackhole Goat",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Ballerino Lololo",
+        "generation": "$4.4M/s"
+      },
+      {
+        "display_name": "Karkerkar Kurkur",
+        "generation": "$4.3M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.7M/s"
+      },
+      {
+        "display_name": "Bisonte Giuppitere",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Sammyni Spyderini",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "asjhdajskdashdja",
+    "server_id": "d7d3c532-774e-4dc7-ab9b-e77ce8c0ee2e",
+    "timestamp": "2025-11-22T14:42:12.221265+00:00"
   }
 ]
