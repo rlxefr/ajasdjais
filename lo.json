@@ -3396,5 +3396,30 @@
     "player": "asjhdajskdashdja",
     "server_id": "caeb85e7-714d-4487-9369-24c4d6e241e3",
     "timestamp": "2025-11-22T15:25:51.969635+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "09bd7605-f89e-49b4-ad04-81e1abb7406a",
+    "timestamp": "2025-11-22T15:25:56.949254+00:00"
   }
 ]
