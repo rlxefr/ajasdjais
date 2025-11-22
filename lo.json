@@ -1611,5 +1611,22 @@
     "player": "asjhdajskdashdja",
     "server_id": "ed0efff1-fd2f-4bf6-b547-b3e82aa20430",
     "timestamp": "2025-11-22T15:03:59.274070+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "ed0efff1-fd2f-4bf6-b547-b3e82aa20430",
+    "timestamp": "2025-11-22T15:04:07.107347+00:00"
   }
 ]
