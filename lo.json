@@ -4059,5 +4059,26 @@
     "player": "saturnautojoiner23",
     "server_id": "a7d6d927-4e08-4de9-a6bb-b880ffb66eac",
     "timestamp": "2025-11-22T14:10:40.837669+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "7750602d-75d8-44b3-80aa-90abe8648e53",
+    "timestamp": "2025-11-22T14:10:46.125319+00:00"
   }
 ]
