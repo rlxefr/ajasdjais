@@ -2432,5 +2432,22 @@
     "player": "asjhdajskdashdja",
     "server_id": "0dd20bf6-fe84-4311-a6ed-8b9cf33f3955",
     "timestamp": "2025-11-22T13:22:00.948001+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 3,
+    "player": "saturnautojoiner23",
+    "server_id": "f1de274b-e0f8-4aea-a4ed-aa116ee2f1ae",
+    "timestamp": "2025-11-22T13:22:04.130822+00:00"
   }
 ]
