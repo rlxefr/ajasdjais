@@ -904,5 +904,30 @@
     "player": "sigmaneagfas",
     "server_id": "ae90ba71-db57-40bc-ac2a-14cb41b9a804",
     "timestamp": "2025-11-22T13:10:07.991601+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Trenostruzzo Turbo 3000",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "sigmaneagfas",
+    "server_id": "7401df60-884a-4776-8f8c-1f60e1e340d4",
+    "timestamp": "2025-11-22T13:10:20.291956+00:00"
   }
 ]
