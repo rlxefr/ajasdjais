@@ -6505,5 +6505,30 @@
     "player": "saturnautojoiner23",
     "server_id": "8da20903-5b35-4c88-93c6-304da3579ecd",
     "timestamp": "2025-11-22T14:26:37.315483+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$1.3M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 3,
+    "player": "sigmaneagfas",
+    "server_id": "dd102f6e-f9e1-4eac-a459-e09867b84f83",
+    "timestamp": "2025-11-22T14:27:31.133490+00:00"
   }
 ]
