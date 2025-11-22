@@ -3421,5 +3421,26 @@
     "player": "sigmaneagfas",
     "server_id": "09bd7605-f89e-49b4-ad04-81e1abb7406a",
     "timestamp": "2025-11-22T15:25:56.949254+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "saturnautojoiner23",
+    "server_id": "e5389fea-e0de-4026-bdd9-077cff7967b9",
+    "timestamp": "2025-11-22T15:25:58.473873+00:00"
   }
 ]
