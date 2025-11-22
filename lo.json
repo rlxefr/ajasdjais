@@ -174,5 +174,22 @@
     "player": "saturnautojoiner23",
     "server_id": "f0e6f3cc-38af-4a18-a72f-3020edda6447",
     "timestamp": "2025-11-22T12:54:31.412445+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$3.5M/s"
+      },
+      {
+        "display_name": "La Vacca Saturno Saturnita",
+        "generation": "$4.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "f0e6f3cc-38af-4a18-a72f-3020edda6447",
+    "timestamp": "2025-11-22T12:54:45.704469+00:00"
   }
 ]
