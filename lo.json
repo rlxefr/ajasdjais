@@ -6839,5 +6839,22 @@
     "player": "sigmaneagfas",
     "server_id": "e1e4e0bc-ae86-4edb-a624-92b7f8ce0e0a",
     "timestamp": "2025-11-22T14:38:48.120118+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "sigmaneagfas",
+    "server_id": "54e46044-6da3-44a9-8b17-bb992a09fa1b",
+    "timestamp": "2025-11-22T14:39:36.486745+00:00"
   }
 ]
