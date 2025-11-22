@@ -419,5 +419,46 @@
     "player": "sigmaneagfas",
     "server_id": "15c7ca4e-6019-49d5-9c47-94ac907fe1e1",
     "timestamp": "2025-11-22T14:43:38.076090+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "La Vacca Saturno Saturnita",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "La Vacca Saturno Saturnita",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      },
+      {
+        "display_name": "Blackhole Goat",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "628f0ed0-a814-4fb9-be15-dcadc988750a",
+    "timestamp": "2025-11-22T14:44:07.309630+00:00"
   }
 ]
