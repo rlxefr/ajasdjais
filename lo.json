@@ -2906,5 +2906,22 @@
     "player": "asjhdajskdashdja",
     "server_id": "66393ffa-7f01-40b8-a3f9-94bab03f26ef",
     "timestamp": "2025-11-22T15:22:21.571932+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "saturnautojoiner23",
+    "server_id": "c9488bb9-839a-4790-898a-deebb47b1bd0",
+    "timestamp": "2025-11-22T15:22:25.102377+00:00"
   }
 ]
