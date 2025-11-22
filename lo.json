@@ -6899,5 +6899,74 @@
     "player": "asjhdajskdashdja",
     "server_id": "dd329f4f-291d-464c-bf96-1eb0ebe2ded3",
     "timestamp": "2025-11-22T14:40:52.502139+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$4M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Bulbito Bandito Traktorito",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Torrtuginni Dragonfrutini",
+        "generation": "$2.9M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "asjhdajskdashdja",
+    "server_id": "d49667b1-4342-49e2-be5f-74dc01a005b2",
+    "timestamp": "2025-11-22T14:41:03.353987+00:00"
   }
 ]
