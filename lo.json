@@ -2885,5 +2885,26 @@
     "player": "asjhdajskdashdja",
     "server_id": "ee9d41b3-5d22-4473-ab67-7aa17c17a53c",
     "timestamp": "2025-11-22T15:22:14.747681+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Chicleteira Bicicleteira",
+        "generation": "$3.5M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "66393ffa-7f01-40b8-a3f9-94bab03f26ef",
+    "timestamp": "2025-11-22T15:22:21.571932+00:00"
   }
 ]
