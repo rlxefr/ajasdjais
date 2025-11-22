@@ -789,5 +789,54 @@
     "player": "asjhdajskdashdja",
     "server_id": "24cc000b-8d67-4c57-9a8b-2a7844cd3ade",
     "timestamp": "2025-11-22T14:49:33.024340+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Cacasito Satalito",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$2.7M/s"
+      },
+      {
+        "display_name": "Job Job Job Sahur",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$5.7M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$6.8M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$3.5M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$5.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "b2e0d0a3-fde6-4b16-b4a8-aef9d6b03955",
+    "timestamp": "2025-11-22T14:51:12.168526+00:00"
   }
 ]
