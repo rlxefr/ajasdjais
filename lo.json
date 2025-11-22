@@ -11,5 +11,26 @@
     "player": "saturnautojoiner23",
     "server_id": "be90bd37-ef3c-4df6-b12f-7fdd05c61b74",
     "timestamp": "2025-11-22T12:50:38.790365+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "saturnautojoiner23",
+    "server_id": "be90bd37-ef3c-4df6-b12f-7fdd05c61b74",
+    "timestamp": "2025-11-22T12:50:56.988025+00:00"
   }
 ]
