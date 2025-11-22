@@ -2319,5 +2319,22 @@
     "player": "saturnautojoiner23",
     "server_id": "99237569-1b95-4afe-b02c-c1c92d3ac500",
     "timestamp": "2025-11-22T15:10:46.293829+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "60861e48-4a08-4197-b1fa-a790350a2662",
+    "timestamp": "2025-11-22T15:11:11.001198+00:00"
   }
 ]
