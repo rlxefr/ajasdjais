@@ -3513,5 +3513,38 @@
     "player": "saturnautojoiner23",
     "server_id": "045bc565-b7b8-4175-892b-84d3ee860f78",
     "timestamp": "2025-11-22T15:26:35.529235+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "cdca9b07-5334-4228-a8b8-634a1053e489",
+    "timestamp": "2025-11-22T15:26:57.462381+00:00"
   }
 ]
