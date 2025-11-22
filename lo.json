@@ -141,5 +141,18 @@
     "player": "asjhdajskdashdja",
     "server_id": "d7d3c532-774e-4dc7-ab9b-e77ce8c0ee2e",
     "timestamp": "2025-11-22T14:42:04.909011+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "244862a2-d8dc-4f76-95c3-617e2bef554d",
+    "timestamp": "2025-11-22T14:42:09.414076+00:00"
   }
 ]
