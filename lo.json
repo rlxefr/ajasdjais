@@ -1437,5 +1437,30 @@
     "player": "asjhdajskdashdja",
     "server_id": "413d0b54-baba-4c92-a539-72f1ebd87981",
     "timestamp": "2025-11-22T13:15:35.627450+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "8b846038-8a43-4869-9ff8-4754c89ed7dc",
+    "timestamp": "2025-11-22T13:15:41.641855+00:00"
   }
 ]
