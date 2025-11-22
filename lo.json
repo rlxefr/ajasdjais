@@ -253,5 +253,22 @@
     "player": "asjhdajskdashdja",
     "server_id": "a4a878aa-ee75-4805-bc9c-0f3efe55abdc",
     "timestamp": "2025-11-22T17:22:45.877663+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "d3f41d68-f7ed-4732-a92f-1bd8efb71364",
+    "timestamp": "2025-11-22T17:23:05.391906+00:00"
   }
 ]
