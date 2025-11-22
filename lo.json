@@ -3205,5 +3205,22 @@
     "player": "saturnautojoiner23",
     "server_id": "98629cc0-7c87-4052-976e-3a09be6d0632",
     "timestamp": "2025-11-22T15:24:33.167035+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$5M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "26c10f65-ca27-46a1-a6ee-e4b500d76360",
+    "timestamp": "2025-11-22T15:24:43.653809+00:00"
   }
 ]
