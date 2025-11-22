@@ -381,5 +381,22 @@
     "player": "sigmaneagfas",
     "server_id": "2ed3990f-519d-4c6a-97dd-353fca4ac74c",
     "timestamp": "2025-11-22T13:27:31.958619+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "2ed3990f-519d-4c6a-97dd-353fca4ac74c",
+    "timestamp": "2025-11-22T13:27:38.241747+00:00"
   }
 ]
