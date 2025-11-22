@@ -236,5 +236,18 @@
     "player": "saturnautojoiner23",
     "server_id": "cc4ec4f2-5db5-4f10-9145-d7890ff1e2cc",
     "timestamp": "2025-11-22T14:42:20.029190+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$2.3M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "51589361-39f4-4602-8d32-35cb524efc90",
+    "timestamp": "2025-11-22T14:42:22.923665+00:00"
   }
 ]
