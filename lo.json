@@ -6771,5 +6771,18 @@
     "player": "asjhdajskdashdja",
     "server_id": "b78eecc0-5edc-4de6-9f21-8ba3c6cde2fe",
     "timestamp": "2025-11-22T14:36:04.305155+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "671af35c-905e-4414-98f2-b4b9bc64a369",
+    "timestamp": "2025-11-22T14:36:42.687744+00:00"
   }
 ]
