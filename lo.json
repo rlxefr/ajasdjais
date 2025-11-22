@@ -1755,5 +1755,26 @@
     "player": "asjhdajskdashdja",
     "server_id": "0245129e-d87b-488a-9ebf-933692727977",
     "timestamp": "2025-11-22T15:05:27.854323+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "4a6f909a-fa2d-4543-b9f6-cd745a6ee23f",
+    "timestamp": "2025-11-22T15:05:32.399424+00:00"
   }
 ]
