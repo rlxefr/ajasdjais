@@ -3704,5 +3704,34 @@
     "player": "asjhdajskdashdja",
     "server_id": "3b4ffcda-8c51-4e7a-8d3b-6f6837070005",
     "timestamp": "2025-11-22T14:10:01.179066+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "654af312-fb70-4d46-8f90-c3efb6ec25f4",
+    "timestamp": "2025-11-22T14:10:07.240169+00:00"
   }
 ]
