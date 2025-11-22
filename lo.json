@@ -53,5 +53,18 @@
     "player": "saturnautojoiner23",
     "server_id": "ed4afb6c-1ff2-42b1-9a9f-034fe8dbe865",
     "timestamp": "2025-11-22T14:41:44.237978+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$21.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "bc88cc81-5e4c-44f2-bc31-816ea707e51d",
+    "timestamp": "2025-11-22T14:41:49.769024+00:00"
   }
 ]
