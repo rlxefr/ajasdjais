@@ -760,5 +760,34 @@
     "player": "asjhdajskdashdja",
     "server_id": "2ed3990f-519d-4c6a-97dd-353fca4ac74c",
     "timestamp": "2025-11-22T13:30:38.639747+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "2ed3990f-519d-4c6a-97dd-353fca4ac74c",
+    "timestamp": "2025-11-22T13:30:45.083515+00:00"
   }
 ]
