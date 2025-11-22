@@ -3880,5 +3880,26 @@
     "player": "sigmaneagfas",
     "server_id": "d372f94d-5d7f-41bf-acf7-a722e3c39099",
     "timestamp": "2025-11-22T15:29:24.484806+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Trenostruzzo Turbo 3000",
+        "generation": "$1.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "90624a32-7e7c-4c8c-a0c1-ac5b3c0fc611",
+    "timestamp": "2025-11-22T15:29:31.079656+00:00"
   }
 ]
