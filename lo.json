@@ -298,5 +298,38 @@
     "player": "saturnautojoiner23",
     "server_id": "926d0f04-d192-42bd-83e7-f95735379e55",
     "timestamp": "2025-11-22T13:27:04.297057+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$7.4M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$8M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "asjhdajskdashdja",
+    "server_id": "71ed2fbf-ecfb-47e1-8be1-c4db4f01ad89",
+    "timestamp": "2025-11-22T13:27:22.755633+00:00"
   }
 ]
