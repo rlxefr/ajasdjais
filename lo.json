@@ -3811,5 +3811,22 @@
     "player": "saturnautojoiner23",
     "server_id": "49e2ff7a-51f8-43cc-8bfd-d151c571e23e",
     "timestamp": "2025-11-22T15:28:32.802660+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$1.6M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "174ac590-e66f-4ee5-9802-3c5c0445ec52",
+    "timestamp": "2025-11-22T15:28:37.093000+00:00"
   }
 ]
