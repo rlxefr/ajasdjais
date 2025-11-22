@@ -5470,5 +5470,17 @@
     "player": "asjhdajskdashdja",
     "server_id": "49e2ff7a-51f8-43cc-8bfd-d151c571e23e",
     "timestamp": "2025-11-22T15:34:40.399910+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player": "asjhdajskdashdja",
+    "server_id": "49e2ff7a-51f8-43cc-8bfd-d151c571e23e",
+    "timestamp": "2025-11-22T15:34:47.882430+00:00"
   }
 ]
