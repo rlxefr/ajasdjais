@@ -6186,5 +6186,18 @@
     "player": "saturnautojoiner23",
     "server_id": "cfddf36e-ea96-4414-be14-ef7aa383c1b0",
     "timestamp": "2025-11-22T14:23:56.320418+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 2,
+    "player": "asjhdajskdashdja",
+    "server_id": "7efa8188-f71d-46f1-b4c0-92134fa016af",
+    "timestamp": "2025-11-22T14:23:58.354656+00:00"
   }
 ]
