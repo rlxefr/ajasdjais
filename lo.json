@@ -4876,5 +4876,22 @@
     "player": "sigmaneagfas",
     "server_id": "30e03f4f-c443-4bb5-8d99-515d197c7876",
     "timestamp": "2025-11-22T14:13:48.440038+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$3M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "asjhdajskdashdja",
+    "server_id": "e49b39ee-d927-4e2e-a3ad-93bef6f987b8",
+    "timestamp": "2025-11-22T14:14:03.086931+00:00"
   }
 ]
