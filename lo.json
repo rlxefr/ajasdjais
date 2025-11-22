@@ -1,1 +1,15 @@
-
+[
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "be90bd37-ef3c-4df6-b12f-7fdd05c61b74",
+    "timestamp": "2025-11-22T12:50:38.790365+00:00"
+  }
+]
