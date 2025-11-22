@@ -6689,5 +6689,22 @@
     "player": "sigmaneagfas",
     "server_id": "9d480673-6b3d-410f-86c1-7c8f504433b7",
     "timestamp": "2025-11-22T14:35:21.882761+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 2,
+    "player": "sigmaneagfas",
+    "server_id": "9d480673-6b3d-410f-86c1-7c8f504433b7",
+    "timestamp": "2025-11-22T14:35:29.998436+00:00"
   }
 ]
