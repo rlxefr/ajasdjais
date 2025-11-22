@@ -929,5 +929,34 @@
     "player": "sigmaneagfas",
     "server_id": "7401df60-884a-4776-8f8c-1f60e1e340d4",
     "timestamp": "2025-11-22T13:10:20.291956+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Sammyni Spyderini",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Job Job Job Sahur",
+        "generation": "$2.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 4,
+    "player": "sigmaneagfas",
+    "server_id": "966234c2-9641-48a7-90e6-8df246ba81e9",
+    "timestamp": "2025-11-22T13:10:32.056989+00:00"
   }
 ]
