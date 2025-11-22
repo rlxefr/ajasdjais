@@ -191,5 +191,22 @@
     "player": "saturnautojoiner23",
     "server_id": "f0e6f3cc-38af-4a18-a72f-3020edda6447",
     "timestamp": "2025-11-22T12:54:45.704469+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Tortus",
+        "generation": "$1.5M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "40cc59d4-3fac-45dd-bead-59b4e9eaf74a",
+    "timestamp": "2025-11-22T12:56:40.033710+00:00"
   }
 ]
