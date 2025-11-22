@@ -2969,5 +2969,18 @@
     "player": "saturnautojoiner23",
     "server_id": "4f3e1355-045e-43ed-842e-ed54fb07fbb8",
     "timestamp": "2025-11-22T15:22:49.836623+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Karkerkar Kurkur",
+        "generation": "$1.6M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "e3503d76-00a9-4a78-bd75-bfb334e68749",
+    "timestamp": "2025-11-22T15:22:51.749797+00:00"
   }
 ]
