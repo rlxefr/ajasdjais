@@ -5507,5 +5507,26 @@
     "player": "saturnautojoiner23",
     "server_id": "2459528c-a292-4fef-b089-5713f836422e",
     "timestamp": "2025-11-22T14:18:43.448157+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "b9f17cf3-e82a-481a-b6bf-cd92bb8ee6dd",
+    "timestamp": "2025-11-22T14:19:00.462711+00:00"
   }
 ]
