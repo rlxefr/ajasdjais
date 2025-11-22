@@ -195,5 +195,46 @@
     "player": "asjhdajskdashdja",
     "server_id": "d7d3c532-774e-4dc7-ab9b-e77ce8c0ee2e",
     "timestamp": "2025-11-22T14:42:12.221265+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$1.8M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.6M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Alessio",
+        "generation": "$1.3M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$3.9M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "cc4ec4f2-5db5-4f10-9145-d7890ff1e2cc",
+    "timestamp": "2025-11-22T14:42:20.029190+00:00"
   }
 ]
