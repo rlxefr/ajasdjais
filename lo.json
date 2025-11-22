@@ -3580,5 +3580,30 @@
     "player": "asjhdajskdashdja",
     "server_id": "80b0d603-ab34-4333-9238-10f66834307c",
     "timestamp": "2025-11-22T15:27:20.362163+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "La Vacca Saturno Saturnita",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$6.5M/s"
+      },
+      {
+        "display_name": "Tralalita Tralala",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "sigmaneagfas",
+    "server_id": "7a009077-0922-452e-a8d7-e0384bb841bf",
+    "timestamp": "2025-11-22T15:27:26.810211+00:00"
   }
 ]
