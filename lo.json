@@ -3976,5 +3976,38 @@
     "player": "asjhdajskdashdja",
     "server_id": "49fbe21d-5877-4bb2-9e9b-0b63ca6093f0",
     "timestamp": "2025-11-22T14:10:33.195156+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$4.5M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$1.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "sigmaneagfas",
+    "server_id": "4077c1d2-bf5f-4476-b9d3-c5d62e5a12df",
+    "timestamp": "2025-11-22T14:10:36.070070+00:00"
   }
 ]
