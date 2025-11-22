@@ -3146,5 +3146,26 @@
     "player": "asjhdajskdashdja",
     "server_id": "4ab3b0a1-ba33-48c4-a5df-0b61f187ceed",
     "timestamp": "2025-11-22T15:24:15.662030+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "c9488bb9-839a-4790-898a-deebb47b1bd0",
+    "timestamp": "2025-11-22T15:24:21.815304+00:00"
   }
 ]
