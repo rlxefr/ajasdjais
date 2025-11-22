@@ -5823,5 +5823,26 @@
     "player": "sigmaneagfas",
     "server_id": "961db876-3e6d-436e-b557-6b977ce46ba0",
     "timestamp": "2025-11-22T14:20:43.469283+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$2.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 2,
+    "player": "saturnautojoiner23",
+    "server_id": "96a271dc-98d7-46cf-a9c7-39c8056024bb",
+    "timestamp": "2025-11-22T14:20:46.514610+00:00"
   }
 ]
