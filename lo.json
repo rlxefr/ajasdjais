@@ -2841,5 +2841,30 @@
     "player": "sigmaneagfas",
     "server_id": "e49b39ee-d927-4e2e-a3ad-93bef6f987b8",
     "timestamp": "2025-11-22T14:07:16.081934+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 4,
+    "player": "asjhdajskdashdja",
+    "server_id": "aa133187-466d-4282-ac38-a8153e8b4cc9",
+    "timestamp": "2025-11-22T14:07:41.245650+00:00"
   }
 ]
