@@ -768,5 +768,26 @@
     "player": "asjhdajskdashdja",
     "server_id": "24cc000b-8d67-4c57-9a8b-2a7844cd3ade",
     "timestamp": "2025-11-22T14:49:26.389286+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$4.1M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "24cc000b-8d67-4c57-9a8b-2a7844cd3ade",
+    "timestamp": "2025-11-22T14:49:33.024340+00:00"
   }
 ]
