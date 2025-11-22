@@ -4944,5 +4944,42 @@
     "player": "saturnautojoiner23",
     "server_id": "c7f2893d-3e32-45a4-8f53-7a8f17abc99f",
     "timestamp": "2025-11-22T15:33:17.589560+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$5M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "sigmaneagfas",
+    "server_id": "e5b94a50-7ec9-45db-a499-eaacb22aff00",
+    "timestamp": "2025-11-22T15:33:26.013780+00:00"
   }
 ]
