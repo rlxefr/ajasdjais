@@ -3901,5 +3901,78 @@
     "player": "asjhdajskdashdja",
     "server_id": "90624a32-7e7c-4c8c-a0c1-ac5b3c0fc611",
     "timestamp": "2025-11-22T15:29:31.079656+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Blackhole Goat",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$9M/s"
+      },
+      {
+        "display_name": "Job Job Job Sahur",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Blackhole Goat",
+        "generation": "$3.6M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "c7f2893d-3e32-45a4-8f53-7a8f17abc99f",
+    "timestamp": "2025-11-22T15:29:33.162426+00:00"
   }
 ]
