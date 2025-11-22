@@ -3778,5 +3778,30 @@
     "player": "sigmaneagfas",
     "server_id": "b59141b8-55be-4a44-9a1e-ece8e036fda6",
     "timestamp": "2025-11-22T14:10:09.385856+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Los Tortus",
+        "generation": "$5.7M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "8f155ed8-9c99-4922-9a18-96abf0c2d142",
+    "timestamp": "2025-11-22T14:10:12.883074+00:00"
   }
 ]
