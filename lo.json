@@ -4943,5 +4943,26 @@
     "player": "sigmaneagfas",
     "server_id": "6a7ba86a-74c6-489f-b64b-ce537fbb57ff",
     "timestamp": "2025-11-22T14:14:27.470016+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$1.6M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "e71be4b6-410b-430e-862c-cc905cd9b9a7",
+    "timestamp": "2025-11-22T14:14:30.890256+00:00"
   }
 ]
