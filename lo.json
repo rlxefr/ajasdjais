@@ -1502,5 +1502,30 @@
     "player": "asjhdajskdashdja",
     "server_id": "cdf1f97e-9221-491a-a45d-7c31a7331a71",
     "timestamp": "2025-11-22T15:02:16.742023+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "5fb0017c-a766-47ff-8d82-828676c9b63b",
+    "timestamp": "2025-11-22T15:02:26.310489+00:00"
   }
 ]
