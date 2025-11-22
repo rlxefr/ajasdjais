@@ -1,1 +1,15 @@
-
+[
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "a8b0ddae-b1c9-45cd-902b-14f22af06ce1",
+    "timestamp": "2025-11-22T17:07:55.446219+00:00"
+  }
+]
