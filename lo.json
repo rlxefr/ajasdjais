@@ -6706,5 +6706,18 @@
     "player": "sigmaneagfas",
     "server_id": "9d480673-6b3d-410f-86c1-7c8f504433b7",
     "timestamp": "2025-11-22T14:35:29.998436+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$3.3M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 3,
+    "player": "sigmaneagfas",
+    "server_id": "16d4c565-2436-4689-9cbf-1600f6d3ca07",
+    "timestamp": "2025-11-22T14:35:40.114145+00:00"
   }
 ]
