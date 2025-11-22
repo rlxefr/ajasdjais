@@ -4421,5 +4421,62 @@
     "player": "sigmaneagfas",
     "server_id": "943d45ad-38d0-49ae-aa31-3abffc84507e",
     "timestamp": "2025-11-22T15:31:17.815508+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Chicleteira Bicicleteira",
+        "generation": "$21M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$3.3M/s"
+      },
+      {
+        "display_name": "Pakrahmatmamat",
+        "generation": "$2.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "asjhdajskdashdja",
+    "server_id": "f11aacd6-1dfe-41e6-9a6d-74f9b5efee1f",
+    "timestamp": "2025-11-22T15:31:23.756766+00:00"
   }
 ]
