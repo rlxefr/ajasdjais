@@ -2386,5 +2386,26 @@
     "player": "saturnautojoiner23",
     "server_id": "d6ec20a8-efd6-4a93-9614-ef833eff2b3d",
     "timestamp": "2025-11-22T15:11:57.842088+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "e5b94a50-7ec9-45db-a499-eaacb22aff00",
+    "timestamp": "2025-11-22T15:12:01.294330+00:00"
   }
 ]
