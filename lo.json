@@ -2281,5 +2281,26 @@
     "player": "asjhdajskdashdja",
     "server_id": "ed0efff1-fd2f-4bf6-b547-b3e82aa20430",
     "timestamp": "2025-11-22T15:10:28.412202+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "ed0efff1-fd2f-4bf6-b547-b3e82aa20430",
+    "timestamp": "2025-11-22T15:10:36.628340+00:00"
   }
 ]
