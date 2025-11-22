@@ -40,5 +40,30 @@
     "player": "asjhdajskdashdja",
     "server_id": "9f2783b1-8613-402b-a9da-b712541481cd",
     "timestamp": "2025-11-22T13:25:27.124433+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Bisonte Giuppitere",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$1.6M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "1b54764d-c045-4c64-8847-ac3df31541b6",
+    "timestamp": "2025-11-22T13:25:35.894233+00:00"
   }
 ]
