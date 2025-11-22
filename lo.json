@@ -2517,5 +2517,22 @@
     "player": "asjhdajskdashdja",
     "server_id": "fa137b15-2222-4abd-a965-0415ef727559",
     "timestamp": "2025-11-22T13:57:12.705177+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$2.7M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "fa137b15-2222-4abd-a965-0415ef727559",
+    "timestamp": "2025-11-22T13:57:14.165536+00:00"
   }
 ]
