@@ -2672,5 +2672,22 @@
     "player": "asjhdajskdashdja",
     "server_id": "98629cc0-7c87-4052-976e-3a09be6d0632",
     "timestamp": "2025-11-22T15:21:35.934815+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "caeb85e7-714d-4487-9369-24c4d6e241e3",
+    "timestamp": "2025-11-22T15:21:37.870481+00:00"
   }
 ]
