@@ -1784,5 +1784,38 @@
     "player": "sigmaneagfas",
     "server_id": "08ea2068-a8fc-4436-aefb-5a40ead1957b",
     "timestamp": "2025-11-22T13:43:43.682175+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Chachechi",
+        "generation": "$1.7M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Blackhole Goat",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "f20ffb13-19f2-4811-b2a1-20249fdeb01d",
+    "timestamp": "2025-11-22T13:43:48.910611+00:00"
   }
 ]
