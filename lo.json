@@ -3676,5 +3676,18 @@
     "player": "sigmaneagfas",
     "server_id": "7a009077-0922-452e-a8d7-e0384bb841bf",
     "timestamp": "2025-11-22T15:27:43.271532+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$2.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "220f2fb3-9ff0-406c-82f6-0d2ea177ba3f",
+    "timestamp": "2025-11-22T15:27:45.354732+00:00"
   }
 ]
