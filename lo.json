@@ -402,5 +402,22 @@
     "player": "sigmaneagfas",
     "server_id": "98a57026-0d58-435c-8acc-c1ef2ebccf15",
     "timestamp": "2025-11-22T14:43:15.564548+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$1.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 3,
+    "player": "sigmaneagfas",
+    "server_id": "15c7ca4e-6019-49d5-9c47-94ac907fe1e1",
+    "timestamp": "2025-11-22T14:43:38.076090+00:00"
   }
 ]
