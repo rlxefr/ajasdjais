@@ -5354,5 +5354,34 @@
     "player": "sigmaneagfas",
     "server_id": "b9f17cf3-e82a-481a-b6bf-cd92bb8ee6dd",
     "timestamp": "2025-11-22T14:18:11.466192+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "e4d9928b-a556-4b54-a818-25785ab082dc",
+    "timestamp": "2025-11-22T14:18:16.233030+00:00"
   }
 ]
