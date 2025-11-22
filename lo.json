@@ -2220,5 +2220,30 @@
     "player": "asjhdajskdashdja",
     "server_id": "c8de08b4-563a-4f24-83d3-bbd5d2d479b0",
     "timestamp": "2025-11-22T13:47:47.691166+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$6.6M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "c8de08b4-563a-4f24-83d3-bbd5d2d479b0",
+    "timestamp": "2025-11-22T13:47:50.224277+00:00"
   }
 ]
