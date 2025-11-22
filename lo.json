@@ -1548,5 +1548,22 @@
     "player": "saturnautojoiner23",
     "server_id": "85af4b2b-211d-4ef0-ad7e-dc67330a728d",
     "timestamp": "2025-11-22T13:16:26.556154+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 5,
+    "player": "asjhdajskdashdja",
+    "server_id": "06faff64-8687-48cf-a950-ea69ce783d55",
+    "timestamp": "2025-11-22T13:16:39.673114+00:00"
   }
 ]
