@@ -4867,5 +4867,18 @@
     "player": "asjhdajskdashdja",
     "server_id": "c7f2893d-3e32-45a4-8f53-7a8f17abc99f",
     "timestamp": "2025-11-22T15:32:49.002195+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "e12b103a-3e3e-4126-80ee-85a7803bc396",
+    "timestamp": "2025-11-22T15:32:53.535773+00:00"
   }
 ]
