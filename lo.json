@@ -3058,5 +3058,42 @@
     "player": "asjhdajskdashdja",
     "server_id": "e1c0a969-40e2-46f7-a2a4-607fcf83c6d1",
     "timestamp": "2025-11-22T15:23:19.149125+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Piccione Macchina",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "80b0d603-ab34-4333-9238-10f66834307c",
+    "timestamp": "2025-11-22T15:23:35.201183+00:00"
   }
 ]
