@@ -763,5 +763,34 @@
     "player": "sigmaneagfas",
     "server_id": "1e7d6168-30ca-4019-83bc-30a5c81d8362",
     "timestamp": "2025-11-22T13:08:34.578289+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "sigmaneagfas",
+    "server_id": "80a99857-439f-40ce-853c-d28a6be49718",
+    "timestamp": "2025-11-22T13:08:47.361498+00:00"
   }
 ]
