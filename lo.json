@@ -3563,5 +3563,22 @@
     "player": "asjhdajskdashdja",
     "server_id": "80b0d603-ab34-4333-9238-10f66834307c",
     "timestamp": "2025-11-22T15:27:12.096274+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "80b0d603-ab34-4333-9238-10f66834307c",
+    "timestamp": "2025-11-22T15:27:20.362163+00:00"
   }
 ]
