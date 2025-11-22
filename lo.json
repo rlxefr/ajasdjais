@@ -5844,5 +5844,18 @@
     "player": "saturnautojoiner23",
     "server_id": "96a271dc-98d7-46cf-a9c7-39c8056024bb",
     "timestamp": "2025-11-22T14:20:46.514610+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Sammyni Spyderini",
+        "generation": "$3M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "f52d93bd-fe44-44d0-99d9-8550983e0270",
+    "timestamp": "2025-11-22T14:21:29.935144+00:00"
   }
 ]
