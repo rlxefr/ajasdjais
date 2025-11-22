@@ -1486,5 +1486,62 @@
     "player": "asjhdajskdashdja",
     "server_id": "1860f53d-dc70-4317-bdb0-bc0b4117b2c6",
     "timestamp": "2025-11-22T13:41:42.717587+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$2.7M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$5M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "sigmaneagfas",
+    "server_id": "bb85b199-78e2-4d42-ab86-561f17a15cfb",
+    "timestamp": "2025-11-22T13:41:55.000333+00:00"
   }
 ]
