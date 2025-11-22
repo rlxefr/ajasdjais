@@ -6095,5 +6095,42 @@
     "player": "asjhdajskdashdja",
     "server_id": "b97d846b-e75b-4ca6-be02-f0f65d9be8cf",
     "timestamp": "2025-11-22T14:23:28.106022+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$1.8M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$4.6M/s"
+      },
+      {
+        "display_name": "Piccione Macchina",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 2,
+    "player": "asjhdajskdashdja",
+    "server_id": "b97d846b-e75b-4ca6-be02-f0f65d9be8cf",
+    "timestamp": "2025-11-22T14:23:34.439030+00:00"
   }
 ]
