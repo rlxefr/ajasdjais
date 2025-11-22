@@ -3180,5 +3180,30 @@
     "player": "asjhdajskdashdja",
     "server_id": "c6724617-51e2-440e-a061-5ba2d2f71cdd",
     "timestamp": "2025-11-22T15:24:32.230751+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "98629cc0-7c87-4052-976e-3a09be6d0632",
+    "timestamp": "2025-11-22T15:24:33.167035+00:00"
   }
 ]
