@@ -817,5 +817,18 @@
     "player": "sigmaneagfas",
     "server_id": "8b0a17e5-bed6-49e2-aa57-b9a575cc372a",
     "timestamp": "2025-11-22T13:09:19.186915+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Cacasito Satalito",
+        "generation": "$3.3M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "2c69b8be-eb1a-4319-bca6-3a5ba53dab16",
+    "timestamp": "2025-11-22T13:09:32.775512+00:00"
   }
 ]
