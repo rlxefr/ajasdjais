@@ -6659,5 +6659,18 @@
     "player": "sigmaneagfas",
     "server_id": "cb84787e-2e02-409e-8c83-bed4330e173b",
     "timestamp": "2025-11-22T14:35:10.733465+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "3bf23612-d8c0-4dbf-8f20-95b05e474abb",
+    "timestamp": "2025-11-22T14:35:18.650059+00:00"
   }
 ]
