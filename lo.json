@@ -853,5 +853,26 @@
     "player": "sigmaneagfas",
     "server_id": "14d16852-a854-4884-bc8f-2e89755c3adf",
     "timestamp": "2025-11-22T13:31:02.253960+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$2.8M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "14d16852-a854-4884-bc8f-2e89755c3adf",
+    "timestamp": "2025-11-22T13:31:08.670556+00:00"
   }
 ]
