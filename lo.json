@@ -819,5 +819,18 @@
     "player": "sigmaneagfas",
     "server_id": "17424944-d71b-4632-8abf-bf4243838e59",
     "timestamp": "2025-11-22T13:30:51.303509+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "75a36ef7-6030-4da9-b684-1a144f0671f5",
+    "timestamp": "2025-11-22T13:30:53.534158+00:00"
   }
 ]
