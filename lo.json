@@ -5328,5 +5328,50 @@
     "player": "asjhdajskdashdja",
     "server_id": "e5b94a50-7ec9-45db-a499-eaacb22aff00",
     "timestamp": "2025-11-22T15:34:17.885560+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "sigmaneagfas",
+    "server_id": "49e2ff7a-51f8-43cc-8bfd-d151c571e23e",
+    "timestamp": "2025-11-22T15:34:21.272282+00:00"
   }
 ]
