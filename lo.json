@@ -2050,5 +2050,26 @@
     "player": "asjhdajskdashdja",
     "server_id": "49d0ec6f-ff33-429d-a1b2-c05860cc7dd2",
     "timestamp": "2025-11-22T15:08:07.965793+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "49d0ec6f-ff33-429d-a1b2-c05860cc7dd2",
+    "timestamp": "2025-11-22T15:08:15.647190+00:00"
   }
 ]
