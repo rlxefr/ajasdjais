@@ -4060,5 +4060,22 @@
     "player": "asjhdajskdashdja",
     "server_id": "fe77daf4-8302-415e-bc63-4ee346dd689f",
     "timestamp": "2025-11-22T15:30:09.759402+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 3,
+    "player": "sigmaneagfas",
+    "server_id": "fe77daf4-8302-415e-bc63-4ee346dd689f",
+    "timestamp": "2025-11-22T15:30:17.750202+00:00"
   }
 ]
