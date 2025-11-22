@@ -1595,5 +1595,34 @@
     "player": "asjhdajskdashdja",
     "server_id": "e4cc8344-d0c3-48db-b248-dd15bfd7d09b",
     "timestamp": "2025-11-22T13:16:54.055700+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$8.5M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 3,
+    "player": "saturnautojoiner23",
+    "server_id": "18c5b907-ba7b-42e6-a572-29553c023d45",
+    "timestamp": "2025-11-22T13:17:00.621028+00:00"
   }
 ]
