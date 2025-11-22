@@ -3854,5 +3854,18 @@
     "player": "saturnautojoiner23",
     "server_id": "27adc64a-b1d3-4fd7-b8b8-f7f6d06300ab",
     "timestamp": "2025-11-22T15:29:03.349287+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "27adc64a-b1d3-4fd7-b8b8-f7f6d06300ab",
+    "timestamp": "2025-11-22T15:29:11.624253+00:00"
   }
 ]
