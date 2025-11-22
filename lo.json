@@ -3013,5 +3013,22 @@
     "player": "sigmaneagfas",
     "server_id": "a26d37d1-f2ff-4d06-bf0b-57c7df76cef6",
     "timestamp": "2025-11-22T14:08:04.730189+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "asjhdajskdashdja",
+    "server_id": "4c94f313-9d5f-4d4a-b146-cc9db19b48f9",
+    "timestamp": "2025-11-22T14:08:07.597815+00:00"
   }
 ]
