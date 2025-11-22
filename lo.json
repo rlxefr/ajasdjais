@@ -455,5 +455,22 @@
     "player": "sigmaneagfas",
     "server_id": "951584bc-b206-46ee-8967-6d32fd74e277",
     "timestamp": "2025-11-22T13:06:47.097757+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "d304f706-e9ea-43af-9435-1b4be2592490",
+    "timestamp": "2025-11-22T13:06:58.764400+00:00"
   }
 ]
