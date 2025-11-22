@@ -5304,5 +5304,30 @@
     "player": "asjhdajskdashdja",
     "server_id": "25c6d8a8-6b31-4ddc-954b-cba9b823bcfc",
     "timestamp": "2025-11-22T14:17:52.698560+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$8.5M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "sigmaneagfas",
+    "server_id": "b9f17cf3-e82a-481a-b6bf-cd92bb8ee6dd",
+    "timestamp": "2025-11-22T14:18:05.660828+00:00"
   }
 ]
