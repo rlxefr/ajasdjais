@@ -4800,5 +4800,22 @@
     "player": "sigmaneagfas",
     "server_id": "c7f2893d-3e32-45a4-8f53-7a8f17abc99f",
     "timestamp": "2025-11-22T15:32:33.309258+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$2.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "66393ffa-7f01-40b8-a3f9-94bab03f26ef",
+    "timestamp": "2025-11-22T15:32:36.868069+00:00"
   }
 ]
