@@ -4647,5 +4647,62 @@
     "player": "asjhdajskdashdja",
     "server_id": "ecb7be9b-655a-47ec-9c9d-ebad81514cc9",
     "timestamp": "2025-11-22T15:31:53.059706+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Los Tortus",
+        "generation": "$5.5M/s"
+      },
+      {
+        "display_name": "Trenostruzzo Turbo 3000",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$1.6M/s"
+      },
+      {
+        "display_name": "Orcalero Orcala",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Tralalita Tralala",
+        "generation": "$1.3M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Tralalita Tralala",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Bisonte Giuppitere",
+        "generation": "$2.2M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      },
+      {
+        "display_name": "Chicleteira Bicicleteira",
+        "generation": "$3.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "90624a32-7e7c-4c8c-a0c1-ac5b3c0fc611",
+    "timestamp": "2025-11-22T15:31:58.557548+00:00"
   }
 ]
