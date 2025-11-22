@@ -3442,5 +3442,18 @@
     "player": "saturnautojoiner23",
     "server_id": "e5389fea-e0de-4026-bdd9-077cff7967b9",
     "timestamp": "2025-11-22T15:25:58.473873+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Las Tralaleritas",
+        "generation": "$5.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "caeb85e7-714d-4487-9369-24c4d6e241e3",
+    "timestamp": "2025-11-22T15:26:00.329462+00:00"
   }
 ]
