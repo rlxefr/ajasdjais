@@ -440,5 +440,18 @@
     "player": "saturnautojoiner23",
     "server_id": "566d9424-f571-4bcf-8664-b3366e5ce3a6",
     "timestamp": "2025-11-22T13:27:59.789215+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Bisonte Giuppitere",
+        "generation": "$2.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "2c1a03a3-ce2b-4293-b1b2-3faddeb0f843",
+    "timestamp": "2025-11-22T13:28:03.021039+00:00"
   }
 ]
