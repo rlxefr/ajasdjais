@@ -5180,5 +5180,34 @@
     "player": "asjhdajskdashdja",
     "server_id": "e5389fea-e0de-4026-bdd9-077cff7967b9",
     "timestamp": "2025-11-22T15:33:57.689378+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "saturnautojoiner23",
+    "server_id": "e5389fea-e0de-4026-bdd9-077cff7967b9",
+    "timestamp": "2025-11-22T15:33:59.609555+00:00"
   }
 ]
