@@ -1347,5 +1347,22 @@
     "player": "asjhdajskdashdja",
     "server_id": "a2ae05d9-9ff5-4270-88fa-f29d677c8be8",
     "timestamp": "2025-11-22T14:59:54.014345+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "ec35187e-4c3e-4b29-bc70-f4d45ea7dbd6",
+    "timestamp": "2025-11-22T15:00:59.328491+00:00"
   }
 ]
