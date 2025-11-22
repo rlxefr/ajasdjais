@@ -83,5 +83,22 @@
     "player": "saturnautojoiner23",
     "server_id": "ed4afb6c-1ff2-42b1-9a9f-034fe8dbe865",
     "timestamp": "2025-11-22T14:41:51.909486+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Torrtuginni Dragonfrutini",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "ed4afb6c-1ff2-42b1-9a9f-034fe8dbe865",
+    "timestamp": "2025-11-22T14:41:59.421285+00:00"
   }
 ]
