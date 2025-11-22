@@ -1658,5 +1658,22 @@
     "player": "saturnautojoiner23",
     "server_id": "6c23a839-da4b-4711-b7a8-2d7a92badc15",
     "timestamp": "2025-11-22T15:04:24.444791+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "saturnautojoiner23",
+    "server_id": "6c23a839-da4b-4711-b7a8-2d7a92badc15",
+    "timestamp": "2025-11-22T15:04:32.325059+00:00"
   }
 ]
