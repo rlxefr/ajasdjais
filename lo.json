@@ -6242,5 +6242,22 @@
     "player": "sigmaneagfas",
     "server_id": "eae89913-fa8f-451a-8ead-ce6e87b159a6",
     "timestamp": "2025-11-22T14:24:32.504724+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "sigmaneagfas",
+    "server_id": "eae89913-fa8f-451a-8ead-ce6e87b159a6",
+    "timestamp": "2025-11-22T14:24:38.805186+00:00"
   }
 ]
