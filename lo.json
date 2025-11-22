@@ -6145,5 +6145,46 @@
     "player": "saturnautojoiner23",
     "server_id": "7efa8188-f71d-46f1-b4c0-92134fa016af",
     "timestamp": "2025-11-22T14:23:39.522915+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "La Vacca Saturno Saturnita",
+        "generation": "$1.5M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$3.3M/s"
+      },
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Los Tortus",
+        "generation": "$3M/s"
+      },
+      {
+        "display_name": "Los Tortus",
+        "generation": "$2.5M/s"
+      },
+      {
+        "display_name": "Vulturino Skeletono",
+        "generation": "$4.5M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$3.3M/s"
+      },
+      {
+        "display_name": "La Vacca Saturno Saturnita",
+        "generation": "$1.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "saturnautojoiner23",
+    "server_id": "cfddf36e-ea96-4414-be14-ef7aa383c1b0",
+    "timestamp": "2025-11-22T14:23:56.320418+00:00"
   }
 ]
