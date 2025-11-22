@@ -4821,5 +4821,18 @@
     "player": "sigmaneagfas",
     "server_id": "9ae3f496-2c43-4c65-b745-928b377401ac",
     "timestamp": "2025-11-22T14:13:10.255918+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "a7d6d927-4e08-4de9-a6bb-b880ffb66eac",
+    "timestamp": "2025-11-22T14:13:12.506322+00:00"
   }
 ]
