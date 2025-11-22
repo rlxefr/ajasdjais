@@ -1125,5 +1125,30 @@
     "player": "sigmaneagfas",
     "server_id": "58c73081-f93d-4092-8ebd-0f3453f6d277",
     "timestamp": "2025-11-22T13:33:01.298569+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Cacasito Satalito",
+        "generation": "$1.5M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Los Tralaleritos",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "2d97b731-e868-4abd-80f5-0db999a83ab5",
+    "timestamp": "2025-11-22T13:33:25.511963+00:00"
   }
 ]
