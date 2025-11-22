@@ -5549,5 +5549,34 @@
     "player": "asjhdajskdashdja",
     "server_id": "b9f17cf3-e82a-481a-b6bf-cd92bb8ee6dd",
     "timestamp": "2025-11-22T14:19:05.639735+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "asjhdajskdashdja",
+    "server_id": "6add9245-e3bd-4139-9809-d00a83293d74",
+    "timestamp": "2025-11-22T14:19:30.084713+00:00"
   }
 ]
