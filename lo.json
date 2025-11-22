@@ -1,1 +1,15 @@
-
+[
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "sigmaneagfas",
+    "server_id": "6fae0f55-0afa-42fa-81c6-befa5c0ba341",
+    "timestamp": "2025-11-22T14:41:27.150316+00:00"
+  }
+]
