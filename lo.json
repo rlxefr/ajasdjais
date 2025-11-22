@@ -4766,5 +4766,22 @@
     "player": "asjhdajskdashdja",
     "server_id": "49e2ff7a-51f8-43cc-8bfd-d151c571e23e",
     "timestamp": "2025-11-22T15:32:15.987016+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$2.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "saturnautojoiner23",
+    "server_id": "66393ffa-7f01-40b8-a3f9-94bab03f26ef",
+    "timestamp": "2025-11-22T15:32:30.638093+00:00"
   }
 ]
