@@ -4499,5 +4499,22 @@
     "player": "saturnautojoiner23",
     "server_id": "30e03f4f-c443-4bb5-8d99-515d197c7876",
     "timestamp": "2025-11-22T14:11:17.537857+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "asjhdajskdashdja",
+    "server_id": "49fbe21d-5877-4bb2-9e9b-0b63ca6093f0",
+    "timestamp": "2025-11-22T14:11:23.506399+00:00"
   }
 ]
