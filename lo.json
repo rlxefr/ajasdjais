@@ -2772,5 +2772,34 @@
     "player": "asjhdajskdashdja",
     "server_id": "50bb51f2-15fc-49b2-a0ce-72c284cf167c",
     "timestamp": "2025-11-22T15:21:55.765656+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "d49b51e9-ede4-4e1f-84d1-98b9c227cbaa",
+    "timestamp": "2025-11-22T15:21:57.136981+00:00"
   }
 ]
