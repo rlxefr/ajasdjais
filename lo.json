@@ -3223,5 +3223,18 @@
     "player": "sigmaneagfas",
     "server_id": "9ae3f496-2c43-4c65-b745-928b377401ac",
     "timestamp": "2025-11-22T14:08:32.262833+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "asjhdajskdashdja",
+    "server_id": "bdaeb86b-0363-4a54-9cee-ef3bbca9afaa",
+    "timestamp": "2025-11-22T14:08:35.288051+00:00"
   }
 ]
