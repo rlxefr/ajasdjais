@@ -1336,5 +1336,26 @@
     "player": "saturnautojoiner23",
     "server_id": "033940ce-0fa5-4005-ba71-67a4d32f33cf",
     "timestamp": "2025-11-22T13:14:51.009921+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1.5M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "755a7c9a-342d-47d2-8285-a19634cf6deb",
+    "timestamp": "2025-11-22T13:15:03.610983+00:00"
   }
 ]
