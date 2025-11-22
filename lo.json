@@ -1,1 +1,23 @@
-
+[
+  {
+    "pets": [
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 2,
+    "player": "asjhdajskdashdja",
+    "server_id": "ec053cf8-955f-4712-b365-8f331befabda",
+    "timestamp": "2025-11-22T13:25:18.602065+00:00"
+  }
+]
