@@ -2721,5 +2721,26 @@
     "player": "asjhdajskdashdja",
     "server_id": "9ac497b8-105f-4caf-aead-a59d47920f25",
     "timestamp": "2025-11-22T13:23:04.445345+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 3,
+    "player": "asjhdajskdashdja",
+    "server_id": "56dc3214-f9e5-498d-b9a5-9da3a1c34c18",
+    "timestamp": "2025-11-22T13:23:52.994289+00:00"
   }
 ]
