@@ -1228,5 +1228,38 @@
     "player": "saturnautojoiner23",
     "server_id": "32abae87-fa91-494e-bbad-b9dda16ca61d",
     "timestamp": "2025-11-22T13:12:57.791582+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "b99275b5-9e2e-4527-9bf7-81a3b9a3c7f6",
+    "timestamp": "2025-11-22T13:14:13.010727+00:00"
   }
 ]
