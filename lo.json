@@ -6805,5 +6805,26 @@
     "player": "asjhdajskdashdja",
     "server_id": "244862a2-d8dc-4f76-95c3-617e2bef554d",
     "timestamp": "2025-11-22T14:37:30.232883+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 2,
+    "player": "asjhdajskdashdja",
+    "server_id": "532bcdf4-d170-4e39-aa27-0fbcc6731650",
+    "timestamp": "2025-11-22T14:37:40.335619+00:00"
   }
 ]
