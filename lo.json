@@ -2186,5 +2186,66 @@
     "player": "saturnautojoiner23",
     "server_id": "2300ef01-e170-4de9-930a-1db7863e67ac",
     "timestamp": "2025-11-22T15:09:18.513625+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Los Orcalitos",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Los Tortus",
+        "generation": "$1.5M/s"
+      },
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$2.5M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Los Tungtungtungcitos",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$1.6M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "saturnautojoiner23",
+    "server_id": "60861e48-4a08-4197-b1fa-a790350a2662",
+    "timestamp": "2025-11-22T15:09:40.847591+00:00"
   }
 ]
