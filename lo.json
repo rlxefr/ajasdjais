@@ -2563,5 +2563,42 @@
     "player": "saturnautojoiner23",
     "server_id": "0a0ecec4-fa5c-46d3-9c96-f5c93a8ba789",
     "timestamp": "2025-11-22T13:58:29.446671+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$1.9M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "0a0ecec4-fa5c-46d3-9c96-f5c93a8ba789",
+    "timestamp": "2025-11-22T14:01:57.571706+00:00"
   }
 ]
