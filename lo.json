@@ -45,5 +45,26 @@
     "player": "saturnautojoiner23",
     "server_id": "be90bd37-ef3c-4df6-b12f-7fdd05c61b74",
     "timestamp": "2025-11-22T12:51:15.060219+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Bombinitos",
+        "generation": "$1.6M/s"
+      },
+      {
+        "display_name": "Chachechi",
+        "generation": "$2.9M/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$3.8M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "saturnautojoiner23",
+    "server_id": "251c3520-55ca-4c95-ade1-32f507495e10",
+    "timestamp": "2025-11-22T12:51:56.359939+00:00"
   }
 ]
