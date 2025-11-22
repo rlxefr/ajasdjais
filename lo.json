@@ -4817,5 +4817,34 @@
     "player": "asjhdajskdashdja",
     "server_id": "66393ffa-7f01-40b8-a3f9-94bab03f26ef",
     "timestamp": "2025-11-22T15:32:36.868069+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Guerriro Digitale",
+        "generation": "$3.3M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      },
+      {
+        "display_name": "Los Tipi Tacos",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Orcalita Orcala",
+        "generation": "$2M/s"
+      },
+      {
+        "display_name": "Belula Beluga",
+        "generation": "$2.4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "saturnautojoiner23",
+    "server_id": "045bc565-b7b8-4175-892b-84d3ee860f78",
+    "timestamp": "2025-11-22T15:32:41.707050+00:00"
   }
 ]
