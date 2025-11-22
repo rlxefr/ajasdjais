@@ -4573,5 +4573,42 @@
     "player": "saturnautojoiner23",
     "server_id": "a4873d2a-4512-4aa7-8f88-a2df0f99f0c7",
     "timestamp": "2025-11-22T15:31:40.354599+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Tralalita Tralala",
+        "generation": "$1M/s"
+      },
+      {
+        "display_name": "Graipuss Medussi",
+        "generation": "$1.2M/s"
+      },
+      {
+        "display_name": "Trippi Troppi Troppa Trippa",
+        "generation": "$1.4M/s"
+      },
+      {
+        "display_name": "Squalanana",
+        "generation": "$2.1M/s"
+      },
+      {
+        "display_name": "Crabbo Limonetta",
+        "generation": "$2.4M/s"
+      },
+      {
+        "display_name": "Zombie Tralala",
+        "generation": "$4.2M/s"
+      },
+      {
+        "display_name": "La Cucaracha",
+        "generation": "$4M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "asjhdajskdashdja",
+    "server_id": "ecb7be9b-655a-47ec-9c9d-ebad81514cc9",
+    "timestamp": "2025-11-22T15:31:44.854266+00:00"
   }
 ]
