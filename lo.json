@@ -1,1 +1,15 @@
-
+[
+  {
+    "pets": [
+      {
+        "display_name": "Los Cucarachas",
+        "generation": "$11.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "Akoyntfp10",
+    "server_id": "01f6d36d-ef35-4aa0-9d9f-1ca3833d84e1",
+    "timestamp": "2025-11-23T21:12:19.972003+00:00"
+  }
+]
