@@ -15913,5 +15913,18 @@
     "player": "BLAST_Chaos72",
     "server_id": "fcfb1e8e-4ce4-4561-bcef-571786c59675",
     "timestamp": "2025-11-23T20:59:19.479361+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Quesadillas",
+        "generation": "$13.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "BLAST_Chaos72",
+    "server_id": "fcfb1e8e-4ce4-4561-bcef-571786c59675",
+    "timestamp": "2025-11-23T20:59:22.166339+00:00"
   }
 ]
