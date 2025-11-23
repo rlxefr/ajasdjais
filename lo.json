@@ -2,273 +2,82 @@
   {
     "pets": [
       {
-        "display_name": "Belula Beluga",
-        "generation": "$2.4M/s"
+        "display_name": "Pipi Kiwi",
+        "generation": "$20/s"
+      },
+      {
+        "display_name": "Pipi Kiwi",
+        "generation": "$20/s"
+      },
+      {
+        "display_name": "Tim Cheese",
+        "generation": "$5/s"
+      },
+      {
+        "display_name": "Tim Cheese",
+        "generation": "$5/s"
+      },
+      {
+        "display_name": "Granchiello Spiritell",
+        "generation": "$260K/s"
+      },
+      {
+        "display_name": "Bandito Bobritto",
+        "generation": "$53/s"
+      },
+      {
+        "display_name": "Noobini Pizzanini",
+        "generation": "$1/s"
+      },
+      {
+        "display_name": "Pipi Kiwi",
+        "generation": "$13/s"
+      },
+      {
+        "display_name": "Burbaloni Loliloli",
+        "generation": "$250/s"
+      },
+      {
+        "display_name": "Noobini Pizzanini",
+        "generation": "$1/s"
+      },
+      {
+        "display_name": "Talpa Di Fero",
+        "generation": "$9/s"
+      },
+      {
+        "display_name": "Pipi Kiwi",
+        "generation": "$13/s"
+      },
+      {
+        "display_name": "Svinina Bombardino",
+        "generation": "$10/s"
+      },
+      {
+        "display_name": "Noobini Pizzanini",
+        "generation": "$1/s"
+      },
+      {
+        "display_name": "Svinina Bombardino",
+        "generation": "$13/s"
+      },
+      {
+        "display_name": "Noobini Pizzanini",
+        "generation": "$1/s"
+      },
+      {
+        "display_name": "Brri Brri Bicus Dicus Bombicus",
+        "generation": "$175/s"
+      },
+      {
+        "display_name": "Gorillo Watermelondrillo",
+        "generation": "$10K/s"
       }
     ],
     "place_id": 109983668079237,
-    "player_count": 6,
-    "player": "asjhdajskdashdja",
-    "server_id": "a8b0ddae-b1c9-45cd-902b-14f22af06ce1",
-    "timestamp": "2025-11-22T17:07:55.446219+00:00"
-  },
-  {
-    "pets": [
-      {
-        "display_name": "Zombie Tralala",
-        "generation": "$4.2M/s"
-      },
-      {
-        "display_name": "Trippi Troppi Troppa Trippa",
-        "generation": "$1.4M/s"
-      },
-      {
-        "display_name": "Orcalita Orcala",
-        "generation": "$2M/s"
-      }
-    ],
-    "place_id": 109983668079237,
-    "player_count": 7,
-    "player": "asjhdajskdashdja",
-    "server_id": "3324dd7b-6764-49e3-aa2c-eca6dca40854",
-    "timestamp": "2025-11-22T17:08:09.601893+00:00"
-  },
-  {
-    "pets": [
-      {
-        "display_name": "Zombie Tralala",
-        "generation": "$4.2M/s"
-      },
-      {
-        "display_name": "Trippi Troppi Troppa Trippa",
-        "generation": "$1.4M/s"
-      },
-      {
-        "display_name": "Orcalita Orcala",
-        "generation": "$2M/s"
-      }
-    ],
-    "place_id": 109983668079237,
-    "player_count": 7,
-    "player": "asjhdajskdashdja",
-    "server_id": "3324dd7b-6764-49e3-aa2c-eca6dca40854",
-    "timestamp": "2025-11-22T17:08:12.106241+00:00"
-  },
-  {
-    "pets": [
-      {
-        "display_name": "Zombie Tralala",
-        "generation": "$4.2M/s"
-      },
-      {
-        "display_name": "Zombie Tralala",
-        "generation": "$4.2M/s"
-      },
-      {
-        "display_name": "Zombie Tralala",
-        "generation": "$4.2M/s"
-      },
-      {
-        "display_name": "Belula Beluga",
-        "generation": "$2.4M/s"
-      },
-      {
-        "display_name": "Los Tralaleritos",
-        "generation": "$4.2M/s"
-      },
-      {
-        "display_name": "Los Tralaleritos",
-        "generation": "$4.2M/s"
-      },
-      {
-        "display_name": "Los Tralaleritos",
-        "generation": "$4.2M/s"
-      },
-      {
-        "display_name": "Squalanana",
-        "generation": "$2.1M/s"
-      },
-      {
-        "display_name": "Belula Beluga",
-        "generation": "$2.4M/s"
-      },
-      {
-        "display_name": "Crabbo Limonetta",
-        "generation": "$1.9M/s"
-      }
-    ],
-    "place_id": 109983668079237,
-    "player_count": 7,
-    "player": "asjhdajskdashdja",
-    "server_id": "9a7586b7-b007-40d1-88c3-38b76ff7fa29",
-    "timestamp": "2025-11-22T17:09:12.685042+00:00"
-  },
-  {
-    "pets": [
-      {
-        "display_name": "Belula Beluga",
-        "generation": "$2.4M/s"
-      }
-    ],
-    "place_id": 109983668079237,
-    "player_count": 5,
-    "player": "asjhdajskdashdja",
-    "server_id": "7325cbce-7f44-4fc8-9712-185456119268",
-    "timestamp": "2025-11-22T17:09:36.067607+00:00"
-  },
-  {
-    "pets": [
-      {
-        "display_name": "Belula Beluga",
-        "generation": "$2.4M/s"
-      },
-      {
-        "display_name": "Crabbo Limonetta",
-        "generation": "$1.9M/s"
-      },
-      {
-        "display_name": "Belula Beluga",
-        "generation": "$2.4M/s"
-      }
-    ],
-    "place_id": 109983668079237,
-    "player_count": 6,
-    "player": "asjhdajskdashdja",
-    "server_id": "7325cbce-7f44-4fc8-9712-185456119268",
-    "timestamp": "2025-11-22T17:10:24.324914+00:00"
-  },
-  {
-    "pets": [
-      {
-        "display_name": "Trippi Troppi Troppa Trippa",
-        "generation": "$1.4M/s"
-      }
-    ],
-    "place_id": 109983668079237,
-    "player_count": 6,
-    "player": "asjhdajskdashdja",
-    "server_id": "452016df-4cb2-487f-9dc6-0e83c63f72e2",
-    "timestamp": "2025-11-22T17:12:45.332634+00:00"
-  },
-  {
-    "pets": [
-      {
-        "display_name": "Crabbo Limonetta",
-        "generation": "$1.9M/s"
-      }
-    ],
-    "place_id": 109983668079237,
-    "player_count": 5,
-    "player": "asjhdajskdashdja",
-    "server_id": "b20172ee-3ea4-41d4-90e4-ea382e0132c6",
-    "timestamp": "2025-11-22T17:13:00.764936+00:00"
-  },
-  {
-    "pets": [
-      {
-        "display_name": "Crabbo Limonetta",
-        "generation": "$1.1M/s"
-      },
-      {
-        "display_name": "Karkerkar Kurkur",
-        "generation": "$1.5M/s"
-      },
-      {
-        "display_name": "Los Orcalitos",
-        "generation": "$1.9M/s"
-      },
-      {
-        "display_name": "Crabbo Limonetta",
-        "generation": "$1.9M/s"
-      },
-      {
-        "display_name": "Belula Beluga",
-        "generation": "$2.4M/s"
-      }
-    ],
-    "place_id": 109983668079237,
-    "player_count": 6,
-    "player": "asjhdajskdashdja",
-    "server_id": "a4a878aa-ee75-4805-bc9c-0f3efe55abdc",
-    "timestamp": "2025-11-22T17:22:06.042987+00:00"
-  },
-  {
-    "pets": [
-      {
-        "display_name": "Crabbo Limonetta",
-        "generation": "$1.1M/s"
-      },
-      {
-        "display_name": "Karkerkar Kurkur",
-        "generation": "$1.5M/s"
-      },
-      {
-        "display_name": "Los Orcalitos",
-        "generation": "$1.9M/s"
-      },
-      {
-        "display_name": "Crabbo Limonetta",
-        "generation": "$1.9M/s"
-      },
-      {
-        "display_name": "Belula Beluga",
-        "generation": "$2.4M/s"
-      }
-    ],
-    "place_id": 109983668079237,
-    "player_count": 6,
-    "player": "asjhdajskdashdja",
-    "server_id": "a4a878aa-ee75-4805-bc9c-0f3efe55abdc",
-    "timestamp": "2025-11-22T17:22:38.697542+00:00"
-  },
-  {
-    "pets": [
-      {
-        "display_name": "Crabbo Limonetta",
-        "generation": "$1.1M/s"
-      },
-      {
-        "display_name": "Karkerkar Kurkur",
-        "generation": "$1.5M/s"
-      },
-      {
-        "display_name": "Los Orcalitos",
-        "generation": "$1.9M/s"
-      },
-      {
-        "display_name": "Crabbo Limonetta",
-        "generation": "$1.9M/s"
-      },
-      {
-        "display_name": "Belula Beluga",
-        "generation": "$2.4M/s"
-      },
-      {
-        "display_name": "Los Orcalitos",
-        "generation": "$1.9M/s"
-      }
-    ],
-    "place_id": 109983668079237,
-    "player_count": 6,
-    "player": "asjhdajskdashdja",
-    "server_id": "a4a878aa-ee75-4805-bc9c-0f3efe55abdc",
-    "timestamp": "2025-11-22T17:22:45.877663+00:00"
-  },
-  {
-    "pets": [
-      {
-        "display_name": "Orcalita Orcala",
-        "generation": "$2M/s"
-      },
-      {
-        "display_name": "Los Tralaleritos",
-        "generation": "$4.2M/s"
-      }
-    ],
-    "place_id": 109983668079237,
-    "player_count": 6,
-    "player": "asjhdajskdashdja",
-    "server_id": "d3f41d68-f7ed-4732-a92f-1bd8efb71364",
-    "timestamp": "2025-11-22T17:23:05.391906+00:00"
+    "player_count": 8,
+    "player": "Akoyntfp10",
+    "server_id": "18fc7332-5cb0-4c9e-abbd-61b80cedd250",
+    "timestamp": "2025-11-23T20:49:50.842379+00:00"
   }
 ]
