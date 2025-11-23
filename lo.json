@@ -12781,5 +12781,62 @@
     "player": "Akoyntfp10",
     "server_id": "bc66d25a-a935-4577-8903-3a06720e1d67",
     "timestamp": "2025-11-23T20:52:30.801641+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Tim Cheese",
+        "generation": "$5/s"
+      },
+      {
+        "display_name": "Brr Brr Patapim",
+        "generation": "$125/s"
+      },
+      {
+        "display_name": "Talpa Di Fero",
+        "generation": "$9/s"
+      },
+      {
+        "display_name": "Trippi Troppi",
+        "generation": "$15/s"
+      },
+      {
+        "display_name": "Bambini Crostini",
+        "generation": "$169/s"
+      },
+      {
+        "display_name": "Ta Ta Ta Ta Sahur",
+        "generation": "$69/s"
+      },
+      {
+        "display_name": "Pipi Kiwi",
+        "generation": "$13/s"
+      },
+      {
+        "display_name": "Svinina Bombardino",
+        "generation": "$10/s"
+      },
+      {
+        "display_name": "Cappuccino Assassino",
+        "generation": "$75/s"
+      },
+      {
+        "display_name": "Cacto Hipopotamo",
+        "generation": "$50/s"
+      },
+      {
+        "display_name": "Pipi Kiwi",
+        "generation": "$13/s"
+      },
+      {
+        "display_name": "Tim Cheese",
+        "generation": "$5/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "XxEthanNinjaxX88",
+    "server_id": "38e5279b-e3e3-4187-9809-0db15f5cd612",
+    "timestamp": "2025-11-23T20:52:33.138899+00:00"
   }
 ]
