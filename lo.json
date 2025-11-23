@@ -37,5 +37,22 @@
     "player": "Akoyntfp10",
     "server_id": "01f6d36d-ef35-4aa0-9d9f-1ca3833d84e1",
     "timestamp": "2025-11-23T21:12:26.098514+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Esok Sekolah",
+        "generation": "$30M/s"
+      },
+      {
+        "display_name": "Esok Sekolah",
+        "generation": "$30M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "Akoyntfp10",
+    "server_id": "2d285691-cda1-4a03-8a2a-54db526fcfdd",
+    "timestamp": "2025-11-23T21:13:51.674001+00:00"
   }
 ]
