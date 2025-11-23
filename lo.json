@@ -12838,5 +12838,18 @@
     "player": "XxEthanNinjaxX88",
     "server_id": "38e5279b-e3e3-4187-9809-0db15f5cd612",
     "timestamp": "2025-11-23T20:52:33.138899+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "{DisplayName}",
+        "generation": "$0/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "BLAST_Chaos72",
+    "server_id": "ca35d4db-90c7-481c-96bd-deb811d6d594",
+    "timestamp": "2025-11-23T20:52:35.304652+00:00"
   }
 ]
