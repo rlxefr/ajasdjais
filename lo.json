@@ -10746,5 +10746,66 @@
     "player": "Akoyntfp10",
     "server_id": "364790e5-7946-4794-b358-d10d9b9d7d0f",
     "timestamp": "2025-11-23T20:51:51.851827+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Ta Ta Ta Ta Sahur",
+        "generation": "$55/s"
+      },
+      {
+        "display_name": "Ta Ta Ta Ta Sahur",
+        "generation": "$55/s"
+      },
+      {
+        "display_name": "Tim Cheese",
+        "generation": "$5/s"
+      },
+      {
+        "display_name": "Brr Brr Patapim",
+        "generation": "$100/s"
+      },
+      {
+        "display_name": "Fluriflura",
+        "generation": "$7/s"
+      },
+      {
+        "display_name": "Trulimero Trulicina",
+        "generation": "$125/s"
+      },
+      {
+        "display_name": "Tim Cheese",
+        "generation": "$5/s"
+      },
+      {
+        "display_name": "Cacto Hipopotamo",
+        "generation": "$50/s"
+      },
+      {
+        "display_name": "Lionel Cactuseli",
+        "generation": "$650/s"
+      },
+      {
+        "display_name": "Trippi Troppi",
+        "generation": "$19/s"
+      },
+      {
+        "display_name": "Avocadini Antilopini",
+        "generation": "$115/s"
+      },
+      {
+        "display_name": "Trulimero Trulicina",
+        "generation": "$125/s"
+      },
+      {
+        "display_name": "Tim Cheese",
+        "generation": "$5/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "HunterLuckyVenom2016",
+    "server_id": "4d3d3db7-067b-40b6-9bb9-c89f626bd021",
+    "timestamp": "2025-11-23T20:51:53.579977+00:00"
   }
 ]
