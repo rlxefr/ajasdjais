@@ -136,5 +136,18 @@
     "player": "HunterLuckyVenom2016",
     "server_id": "5e7d3442-bb53-490c-99f3-07cc752929c1",
     "timestamp": "2025-11-23T21:17:51.242150+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Cucarachas",
+        "generation": "$15M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "HunterLuckyVenom2016",
+    "server_id": "5e7d3442-bb53-490c-99f3-07cc752929c1",
+    "timestamp": "2025-11-23T21:17:53.845651+00:00"
   }
 ]
