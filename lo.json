@@ -6435,5 +6435,66 @@
     "player": "Akoyntfp10",
     "server_id": "c5bcb8c7-8f30-46b6-9c48-7c25d8094861",
     "timestamp": "2025-11-23T20:51:03.593945+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Lirilì Larilà",
+        "generation": "$3/s"
+      },
+      {
+        "display_name": "Noobini Pizzanini",
+        "generation": "$1/s"
+      },
+      {
+        "display_name": "Trippi Troppi",
+        "generation": "$15/s"
+      },
+      {
+        "display_name": "Cacto Hipopotamo",
+        "generation": "$50/s"
+      },
+      {
+        "display_name": "Avocadini Antilopini",
+        "generation": "$115/s"
+      },
+      {
+        "display_name": "Glorbo Fruttodrillo",
+        "generation": "$750/s"
+      },
+      {
+        "display_name": "Lirilì Larilà",
+        "generation": "$3/s"
+      },
+      {
+        "display_name": "Gangster Footera",
+        "generation": "$30/s"
+      },
+      {
+        "display_name": "Gangster Footera",
+        "generation": "$30/s"
+      },
+      {
+        "display_name": "Talpa Di Fero",
+        "generation": "$11/s"
+      },
+      {
+        "display_name": "Lirilì Larilà",
+        "generation": "$3/s"
+      },
+      {
+        "display_name": "Boneca Ambalabu",
+        "generation": "$40/s"
+      },
+      {
+        "display_name": "Cacto Hipopotamo",
+        "generation": "$50/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "BLAST_Chaos72",
+    "server_id": "ee32ddea-7ec8-4b38-8da9-d0e50f1cf21d",
+    "timestamp": "2025-11-23T20:51:05.468530+00:00"
   }
 ]
