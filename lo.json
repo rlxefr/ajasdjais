@@ -9087,5 +9087,18 @@
     "player": "Akoyntfp10",
     "server_id": "3741ea7a-de49-44c0-a592-486813d4d32f",
     "timestamp": "2025-11-23T20:51:36.181098+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "{DisplayName}",
+        "generation": "$0/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "HunterLuckyVenom2016",
+    "server_id": "d822cb06-5de0-4c1c-9a36-679bfd8a2a82",
+    "timestamp": "2025-11-23T20:51:38.398937+00:00"
   }
 ]
