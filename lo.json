@@ -7260,5 +7260,66 @@
     "player": "BLAST_Chaos72",
     "server_id": "ee32ddea-7ec8-4b38-8da9-d0e50f1cf21d",
     "timestamp": "2025-11-23T20:51:13.468776+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Trulimero Trulicina",
+        "generation": "$188/s"
+      },
+      {
+        "display_name": "Cacto Hipopotamo",
+        "generation": "$50/s"
+      },
+      {
+        "display_name": "Svinina Bombardino",
+        "generation": "$10/s"
+      },
+      {
+        "display_name": "Bananita Dolphinita",
+        "generation": "$150/s"
+      },
+      {
+        "display_name": "Noobini Pizzanini",
+        "generation": "$1/s"
+      },
+      {
+        "display_name": "Svinina Bombardino",
+        "generation": "$10/s"
+      },
+      {
+        "display_name": "Trippi Troppi",
+        "generation": "$15/s"
+      },
+      {
+        "display_name": "Brri Brri Bicus Dicus Bombicus",
+        "generation": "$175/s"
+      },
+      {
+        "display_name": "Fluriflura",
+        "generation": "$7/s"
+      },
+      {
+        "display_name": "Cacto Hipopotamo",
+        "generation": "$50/s"
+      },
+      {
+        "display_name": "Fluriflura",
+        "generation": "$7/s"
+      },
+      {
+        "display_name": "Pipi Potato",
+        "generation": "$1K/s"
+      },
+      {
+        "display_name": "Talpa Di Fero",
+        "generation": "$9/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "Akoyntfp10",
+    "server_id": "52b63234-5ed3-4358-b1f7-fbad8bd9e590",
+    "timestamp": "2025-11-23T20:51:15.429874+00:00"
   }
 ]
