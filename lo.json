@@ -623,5 +623,18 @@
     "player": "HunterLuckyVenom2016",
     "server_id": "d51b0835-ae9e-4f76-80d3-f902914e434c",
     "timestamp": "2025-11-23T20:49:59.383911+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "{DisplayName}",
+        "generation": "$0/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "BLAST_Chaos72",
+    "server_id": "bf34bfe7-2607-469c-a043-0ed8e94ca0d9",
+    "timestamp": "2025-11-23T20:50:01.915838+00:00"
   }
 ]
