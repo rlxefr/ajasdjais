@@ -3189,5 +3189,66 @@
     "player": "Akoyntfp10",
     "server_id": "f03cd870-250b-4566-a144-4bbb041af6e1",
     "timestamp": "2025-11-23T20:50:26.372743+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Bandito Bobritto",
+        "generation": "$35/s"
+      },
+      {
+        "display_name": "Noobini Pizzanini",
+        "generation": "$1/s"
+      },
+      {
+        "display_name": "Tim Cheese",
+        "generation": "$6/s"
+      },
+      {
+        "display_name": "Tric Trac Baraboom",
+        "generation": "$65/s"
+      },
+      {
+        "display_name": "Tric Trac Baraboom",
+        "generation": "$65/s"
+      },
+      {
+        "display_name": "Chef Crabracadabra",
+        "generation": "$600/s"
+      },
+      {
+        "display_name": "Bananita Dolphinita",
+        "generation": "$150/s"
+      },
+      {
+        "display_name": "Talpa Di Fero",
+        "generation": "$9/s"
+      },
+      {
+        "display_name": "Perochello Lemonchello",
+        "generation": "$160/s"
+      },
+      {
+        "display_name": "Cappuccino Assassino",
+        "generation": "$75/s"
+      },
+      {
+        "display_name": "Svinina Bombardino",
+        "generation": "$10/s"
+      },
+      {
+        "display_name": "Pipi Kiwi",
+        "generation": "$13/s"
+      },
+      {
+        "display_name": "Cacto Hipopotamo",
+        "generation": "$63/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "XxEthanNinjaxX88",
+    "server_id": "e2fa0c16-5953-482d-ac06-f719100fae6d",
+    "timestamp": "2025-11-23T20:50:28.304952+00:00"
   }
 ]
