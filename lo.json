@@ -16110,5 +16110,18 @@
     "player": "HunterLuckyVenom2016",
     "server_id": "6297dd37-07bb-43a8-8834-dd187af404a5",
     "timestamp": "2025-11-23T21:10:35.455351+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Cuadramat and Pakrahmatmamat",
+        "generation": "$11.9M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "HunterLuckyVenom2016",
+    "server_id": "6297dd37-07bb-43a8-8834-dd187af404a5",
+    "timestamp": "2025-11-23T21:10:38.358090+00:00"
   }
 ]
