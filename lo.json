@@ -16029,5 +16029,22 @@
     "player": "HunterLuckyVenom2016",
     "server_id": "462aa82d-691c-4b3d-a8e7-72ce10bc2138",
     "timestamp": "2025-11-23T21:03:52.245519+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$25M/s"
+      },
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$25M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "HunterLuckyVenom2016",
+    "server_id": "462aa82d-691c-4b3d-a8e7-72ce10bc2138",
+    "timestamp": "2025-11-23T21:03:55.196344+00:00"
   }
 ]
