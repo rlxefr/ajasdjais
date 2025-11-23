@@ -15730,5 +15730,22 @@
     "player": "Akoyntfp10",
     "server_id": "e9bd7ca2-9097-4992-85f6-e0335c1c48bc",
     "timestamp": "2025-11-23T20:58:00.334278+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Mobilis",
+        "generation": "$22M/s"
+      },
+      {
+        "display_name": "Los Mobilis",
+        "generation": "$22M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "HunterLuckyVenom2016",
+    "server_id": "a35f200d-1b95-45b7-8a78-80bd9e821edf",
+    "timestamp": "2025-11-23T20:58:08.417161+00:00"
   }
 ]
