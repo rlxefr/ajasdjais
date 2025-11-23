@@ -4305,5 +4305,74 @@
     "player": "HunterLuckyVenom2016",
     "server_id": "d641b2f0-ae4c-4d9f-bceb-feef33fec7ba",
     "timestamp": "2025-11-23T20:50:34.242595+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$450K/s"
+      },
+      {
+        "display_name": "Extinct Tralalero",
+        "generation": "$450K/s"
+      },
+      {
+        "display_name": "Noobini Pizzanini",
+        "generation": "$1/s"
+      },
+      {
+        "display_name": "Noobini Pizzanini",
+        "generation": "$1/s"
+      },
+      {
+        "display_name": "Noobini Pizzanini",
+        "generation": "$1/s"
+      },
+      {
+        "display_name": "Avocadini Antilopini",
+        "generation": "$115/s"
+      },
+      {
+        "display_name": "Bambini Crostini",
+        "generation": "$169/s"
+      },
+      {
+        "display_name": "Cacto Hipopotamo",
+        "generation": "$50/s"
+      },
+      {
+        "display_name": "Svinina Bombardino",
+        "generation": "$10/s"
+      },
+      {
+        "display_name": "Fluriflura",
+        "generation": "$7/s"
+      },
+      {
+        "display_name": "Lirilì Larilà",
+        "generation": "$3/s"
+      },
+      {
+        "display_name": "Lerulerulerule",
+        "generation": "$9K/s"
+      },
+      {
+        "display_name": "Rhino Toasterino",
+        "generation": "$2K/s"
+      },
+      {
+        "display_name": "Avocadini Guffo",
+        "generation": "$225/s"
+      },
+      {
+        "display_name": "Lionel Cactuseli",
+        "generation": "$650/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "Akoyntfp10",
+    "server_id": "0b425186-2d86-48a4-8da0-0a08543aea6c",
+    "timestamp": "2025-11-23T20:50:36.163592+00:00"
   }
 ]
