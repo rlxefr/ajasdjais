@@ -15939,5 +15939,22 @@
     "player": "BLAST_Chaos72",
     "server_id": "fcfb1e8e-4ce4-4561-bcef-571786c59675",
     "timestamp": "2025-11-23T20:59:24.450853+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$21.2M/s"
+      },
+      {
+        "display_name": "Pot Hotspot",
+        "generation": "$21.2M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "BLAST_Chaos72",
+    "server_id": "e48621d7-bbdd-4d3d-9e26-46cc203c51ac",
+    "timestamp": "2025-11-23T20:59:45.837163+00:00"
   }
 ]
