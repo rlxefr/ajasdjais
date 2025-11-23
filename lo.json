@@ -5823,5 +5823,66 @@
     "player": "BLAST_Chaos72",
     "server_id": "3e991fab-053e-4b74-9121-15c946db3f1c",
     "timestamp": "2025-11-23T20:50:55.187181+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Gangster Footera",
+        "generation": "$30/s"
+      },
+      {
+        "display_name": "Svinina Bombardino",
+        "generation": "$10/s"
+      },
+      {
+        "display_name": "Talpa Di Fero",
+        "generation": "$9/s"
+      },
+      {
+        "display_name": "Boneca Ambalabu",
+        "generation": "$40/s"
+      },
+      {
+        "display_name": "Tric Trac Baraboom",
+        "generation": "$65/s"
+      },
+      {
+        "display_name": "Talpa Di Fero",
+        "generation": "$9/s"
+      },
+      {
+        "display_name": "Noobini Pizzanini",
+        "generation": "$1/s"
+      },
+      {
+        "display_name": "Lirilì Larilà",
+        "generation": "$3/s"
+      },
+      {
+        "display_name": "Lirilì Larilà",
+        "generation": "$3/s"
+      },
+      {
+        "display_name": "Ta Ta Ta Ta Sahur",
+        "generation": "$55/s"
+      },
+      {
+        "display_name": "Noobini Pizzanini",
+        "generation": "$1/s"
+      },
+      {
+        "display_name": "Fluriflura",
+        "generation": "$7/s"
+      },
+      {
+        "display_name": "Lirilì Larilà",
+        "generation": "$3/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "XxEthanNinjaxX88",
+    "server_id": "ad101f13-2448-4306-9736-4efac5bc1242",
+    "timestamp": "2025-11-23T20:50:56.648264+00:00"
   }
 ]
