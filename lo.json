@@ -9061,5 +9061,18 @@
     "player": "BLAST_Chaos72",
     "server_id": "410f6b09-eb50-40cb-84f1-8e37d2f8d520",
     "timestamp": "2025-11-23T20:51:31.172440+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "{DisplayName}",
+        "generation": "$0/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "XxEthanNinjaxX88",
+    "server_id": "7d870315-86db-4c1a-85e1-6ebe1cb7ee53",
+    "timestamp": "2025-11-23T20:51:33.719894+00:00"
   }
 ]
