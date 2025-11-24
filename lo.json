@@ -162,5 +162,18 @@
     "player": "Akoyntfp10",
     "server_id": "905520e2-621f-4e09-81ad-c6ea54d92144",
     "timestamp": "2025-11-24T07:28:44.567975+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Burrito Bandito",
+        "generation": "$24M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "Akoyntfp4",
+    "server_id": "905520e2-621f-4e09-81ad-c6ea54d92144",
+    "timestamp": "2025-11-24T07:29:01.288315+00:00"
   }
 ]
