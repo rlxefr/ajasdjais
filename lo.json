@@ -338,5 +338,22 @@
     "player": "Ech0FlickSilv3r2003",
     "server_id": "1540c7fe-83e7-4d3f-9b0f-7ae37ac6a3bc",
     "timestamp": "2025-11-24T07:34:15.557673+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Las Sis",
+        "generation": "$17.5M/s"
+      },
+      {
+        "display_name": "Las Sis",
+        "generation": "$17.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "EzraHawkBlaze11YT",
+    "server_id": "e0b43e18-1d2b-456e-94b5-b6be2261863b",
+    "timestamp": "2025-11-24T07:36:54.502283+00:00"
   }
 ]
