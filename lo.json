@@ -149,5 +149,18 @@
     "player": "HunterLuckyVenom2016",
     "server_id": "5e7d3442-bb53-490c-99f3-07cc752929c1",
     "timestamp": "2025-11-23T21:17:53.845651+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Burrito Bandito",
+        "generation": "$24M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 6,
+    "player": "Akoyntfp10",
+    "server_id": "905520e2-621f-4e09-81ad-c6ea54d92144",
+    "timestamp": "2025-11-24T07:28:44.567975+00:00"
   }
 ]
