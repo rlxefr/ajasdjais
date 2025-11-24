@@ -368,5 +368,18 @@
     "player": "EzraHawkBlaze11YT",
     "server_id": "5d383789-1e3a-4058-9815-2b649f02f5b9",
     "timestamp": "2025-11-24T07:38:08.840769+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "Los Cucarachas",
+        "generation": "$17.5M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 7,
+    "player": "EzraHawkBlaze11YT",
+    "server_id": "5d383789-1e3a-4058-9815-2b649f02f5b9",
+    "timestamp": "2025-11-24T07:38:21.332398+00:00"
   }
 ]
