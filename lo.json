@@ -264,5 +264,42 @@
     "player": "Ech0FlickSilv3r2003",
     "server_id": "1540c7fe-83e7-4d3f-9b0f-7ae37ac6a3bc",
     "timestamp": "2025-11-24T07:34:00.696303+00:00"
+  },
+  {
+    "pets": [
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$20.2M/s"
+      },
+      {
+        "display_name": "To to to Sahur",
+        "generation": "$20.2M/s"
+      },
+      {
+        "display_name": "Los Chicleteiras",
+        "generation": "$45.5M/s"
+      },
+      {
+        "display_name": "Los Chicleteiras",
+        "generation": "$45.5M/s"
+      },
+      {
+        "display_name": "Quesadilla Crocodila",
+        "generation": "$21.7M/s"
+      },
+      {
+        "display_name": "Quesadilla Crocodila",
+        "generation": "$21.7M/s"
+      },
+      {
+        "display_name": "Quesadillo Vampiro",
+        "generation": "$11.3M/s"
+      }
+    ],
+    "place_id": 109983668079237,
+    "player_count": 8,
+    "player": "Ech0FlickSilv3r2003",
+    "server_id": "1540c7fe-83e7-4d3f-9b0f-7ae37ac6a3bc",
+    "timestamp": "2025-11-24T07:34:06.527696+00:00"
   }
 ]
